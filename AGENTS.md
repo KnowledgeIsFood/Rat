@@ -4,7 +4,7 @@
 
 ### 产品
 
-《山海经》题材 **成长 · 异变 · 肉鸽** 游戏（代号 Rat）。当前以 **Godot 4.6** 工程 `game/` 为主，异兽数据由 Python 脚本从 `tools/emit_shanhaijing_chapters.py` 生成到 `data/shanhaijing/chapters/*.json`，再经 `tools/render_shanhaijing_docs.py` 合并为 `game/data/creatures_catalog.json` 并生成 `docs/shanhaijing/CATALOG.md` 与 `creatures/by_id/*.md`。
+《山海经》题材 **成长 · 异变 · 肉鸽** 游戏（代号 Rat）。当前以 **Godot 4.6** 工程 `game/` 为主，异兽数据以 **`data/shanhaijing/creatures_master.csv`** 为主表维护；`tools/emit_shanhaijing_chapters.py` 读取 CSV 写出 `data/shanhaijing/chapters/*.json`，`tools/render_shanhaijing_docs.py` 再合并为 `game/data/creatures_catalog.json` 并生成 `docs/shanhaijing/CATALOG.md` 与 `creatures/by_id/*.md`。
 
 ### Godot
 
@@ -15,7 +15,7 @@
 ### 数据工作流（不要手改生成物）
 
 - **不要**手改 `docs/shanhaijing/CATALOG.md` 或 `docs/shanhaijing/creatures/by_id/*.md` 或 `game/data/creatures_catalog.json`：会被脚本覆盖。
-- 扩充异兽：编辑 `tools/emit_shanhaijing_chapters.py`（或改为读取你新增的 `data/shanhaijing/chapters/*.json` 并调整 `dump` 列表），然后依次运行 `emit` 与 `render` 脚本。
+- 扩充异兽：编辑 **`data/shanhaijing/creatures_master.csv`**（见 `docs/shanhaijing/表格维护说明.md`），然后依次运行 `emit` 与 `render` 脚本。
 
 ### 与标准文档的关系
 

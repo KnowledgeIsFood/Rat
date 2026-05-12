@@ -3,9 +3,6 @@
     {
       "id": "liuju",
       "name_zh": "从从",
-      "aliases_zh": [
-        "六足犬形兽"
-      ],
       "corpus_zh": "五藏山經",
       "jing_zh": "东山經",
       "section_zh": "东次一經",
@@ -16,6 +13,9 @@
       "food_web_zh": "食腐与小型甲壳；六足利于滩涂快速移动。",
       "trophic_role_zh": "杂食中级消费者",
       "artistic_portrait_note_zh": "犬形六足沙滩跑痕交错；远天狡月。",
+      "aliases_zh": [
+        "六足犬形兽"
+      ],
       "related_zh": [
         "条菅之水"
       ],

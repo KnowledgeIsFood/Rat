@@ -165,9 +165,6 @@
     {
       "id": "manman",
       "name_zh": "蛮蛮",
-      "aliases_zh": [
-        "比翼鸟"
-      ],
       "corpus_zh": "五藏山經",
       "jing_zh": "西山經",
       "section_zh": "西次三經",
@@ -178,6 +175,9 @@
       "food_web_zh": "杂食涉禽：水草、软体动物；猛禽捕食成鸟。",
       "trophic_role_zh": "次级消费者",
       "artistic_portrait_note_zh": "各半翼半目两只并立合成一鸟剪影；河风拉长线羽。",
+      "aliases_zh": [
+        "比翼鸟"
+      ],
       "related_zh": [
         "崇吾之山"
       ],

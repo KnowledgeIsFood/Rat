@@ -8,9 +8,9 @@
 - **单条 Markdown（自动生成）**：`creatures/by_id/<id>.md`
 - **机读合并表（供 Godot 读取）**：`game/data/creatures_catalog.json`（由脚本从 `data/shanhaijing/chapters/*.json` 合并生成）
 
-## 如何扩充
+## 如何扩充（主表 CSV）
 
-1. 编辑 `tools/emit_shanhaijing_chapters.py` 中对应数组，或新增 `data/shanhaijing/chapters/<新文件>.json`（需同步改 `emit` 脚本 `dump` 调用，或改为自动遍历目录——当前为显式 `dump`）。
+1. 在 **`data/shanhaijing/creatures_master.csv`** 末尾追加一行（或复制上一行改字段）。列含义见 [表格维护说明.md](表格维护说明.md)。
 2. 运行：
    - `python3 tools/emit_shanhaijing_chapters.py`
    - `python3 tools/render_shanhaijing_docs.py`

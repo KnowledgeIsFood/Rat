@@ -3,9 +3,6 @@
     {
       "id": "jingwei",
       "name_zh": "精卫",
-      "aliases_zh": [
-        "发鸠之精卫鸟"
-      ],
       "corpus_zh": "五藏山經",
       "jing_zh": "北山經",
       "section_zh": "北次三經",
@@ -16,6 +13,9 @@
       "food_web_zh": "小型杂食鸟；叙事上弱化捕食，强调衔运行为对海岸沉积影响（神话级）。",
       "trophic_role_zh": "叙事型消费者 / 工程师鸟",
       "artistic_portrait_note_zh": "乌身赤足白喙，喙中横木石；浪线与沙洲几何层叠。",
+      "aliases_zh": [
+        "发鸠之精卫鸟"
+      ],
       "related_zh": [
         "东海"
       ],
@@ -24,9 +24,6 @@
     {
       "id": "renyu_beifang",
       "name_zh": "人鱼（陵鱼/鱼妇类属）",
-      "aliases_zh": [
-        "鲛人系谱旁支"
-      ],
       "corpus_zh": "五藏山經",
       "jing_zh": "北山經",
       "section_zh": "北山經",
@@ -37,6 +34,9 @@
       "food_web_zh": "杂食：螺贝、水草、小型鱼；人类捕捞压力。",
       "trophic_role_zh": "次级消费者",
       "artistic_portrait_note_zh": "幼童啼声水雾，鱼尾四足匍匐浅滩；足印混婴儿与兽。",
+      "aliases_zh": [
+        "鲛人系谱旁支"
+      ],
       "related_zh": [
         "河伯叙事群"
       ],
@@ -45,9 +45,6 @@
     {
       "id": "baoxiao",
       "name_zh": "狍鸮",
-      "aliases_zh": [
-        "饕餮原型之一"
-      ],
       "corpus_zh": "五藏山經",
       "jing_zh": "北山經",
       "section_zh": "北次二經",
@@ -58,6 +55,9 @@
       "food_web_zh": "顶级掠食：人类、兽群；自我吞噬隐喻可做异变技能。",
       "trophic_role_zh": "顶级消费者",
       "artistic_portrait_note_zh": "羊身人面的错位感，目藏腋下；婴儿啼与虎齿并置。",
+      "aliases_zh": [
+        "饕餮原型之一"
+      ],
       "related_zh": [
         "饕餮"
       ],

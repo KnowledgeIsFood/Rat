@@ -39,9 +39,6 @@
     {
       "id": "xiangliu",
       "name_zh": "相柳",
-      "aliases_zh": [
-        "相繇"
-      ],
       "corpus_zh": "海經",
       "jing_zh": "海内北經",
       "section_zh": "海内北經",
@@ -52,6 +49,9 @@
       "food_web_zh": "顶级掠食：大型兽与人；毒涎改变土壤微生物群落，抑制高等植物。",
       "trophic_role_zh": "顶级消费者 / 环境毁灭者",
       "artistic_portrait_note_zh": "九头蛇冠如扇，涎水落地生苔枯死圈。",
+      "aliases_zh": [
+        "相繇"
+      ],
       "related_zh": [
         "共工"
       ],

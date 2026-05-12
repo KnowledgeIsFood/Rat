@@ -6,9 +6,6 @@
     {
       "id": "jingwei",
       "name_zh": "精卫",
-      "aliases_zh": [
-        "发鸠之精卫鸟"
-      ],
       "corpus_zh": "五藏山經",
       "jing_zh": "北山經",
       "section_zh": "北次三經",
@@ -19,6 +16,9 @@
       "food_web_zh": "小型杂食鸟；叙事上弱化捕食，强调衔运行为对海岸沉积影响（神话级）。",
       "trophic_role_zh": "叙事型消费者 / 工程师鸟",
       "artistic_portrait_note_zh": "乌身赤足白喙，喙中横木石；浪线与沙洲几何层叠。",
+      "aliases_zh": [
+        "发鸠之精卫鸟"
+      ],
       "related_zh": [
         "东海"
       ],
@@ -27,9 +27,6 @@
     {
       "id": "renyu_beifang",
       "name_zh": "人鱼（陵鱼/鱼妇类属）",
-      "aliases_zh": [
-        "鲛人系谱旁支"
-      ],
       "corpus_zh": "五藏山經",
       "jing_zh": "北山經",
       "section_zh": "北山經",
@@ -40,6 +37,9 @@
       "food_web_zh": "杂食：螺贝、水草、小型鱼；人类捕捞压力。",
       "trophic_role_zh": "次级消费者",
       "artistic_portrait_note_zh": "幼童啼声水雾，鱼尾四足匍匐浅滩；足印混婴儿与兽。",
+      "aliases_zh": [
+        "鲛人系谱旁支"
+      ],
       "related_zh": [
         "河伯叙事群"
       ],
@@ -48,9 +48,6 @@
     {
       "id": "baoxiao",
       "name_zh": "狍鸮",
-      "aliases_zh": [
-        "饕餮原型之一"
-      ],
       "corpus_zh": "五藏山經",
       "jing_zh": "北山經",
       "section_zh": "北次二經",
@@ -61,6 +58,9 @@
       "food_web_zh": "顶级掠食：人类、兽群；自我吞噬隐喻可做异变技能。",
       "trophic_role_zh": "顶级消费者",
       "artistic_portrait_note_zh": "羊身人面的错位感，目藏腋下；婴儿啼与虎齿并置。",
+      "aliases_zh": [
+        "饕餮原型之一"
+      ],
       "related_zh": [
         "饕餮"
       ],
@@ -232,9 +232,6 @@
     {
       "id": "liuju",
       "name_zh": "从从",
-      "aliases_zh": [
-        "六足犬形兽"
-      ],
       "corpus_zh": "五藏山經",
       "jing_zh": "东山經",
       "section_zh": "东次一經",
@@ -245,6 +242,9 @@
       "food_web_zh": "食腐与小型甲壳；六足利于滩涂快速移动。",
       "trophic_role_zh": "杂食中级消费者",
       "artistic_portrait_note_zh": "犬形六足沙滩跑痕交错；远天狡月。",
+      "aliases_zh": [
+        "六足犬形兽"
+      ],
       "related_zh": [
         "条菅之水"
       ],
@@ -343,9 +343,6 @@
     {
       "id": "xiangliu",
       "name_zh": "相柳",
-      "aliases_zh": [
-        "相繇"
-      ],
       "corpus_zh": "海經",
       "jing_zh": "海内北經",
       "section_zh": "海内北經",
@@ -356,6 +353,9 @@
       "food_web_zh": "顶级掠食：大型兽与人；毒涎改变土壤微生物群落，抑制高等植物。",
       "trophic_role_zh": "顶级消费者 / 环境毁灭者",
       "artistic_portrait_note_zh": "九头蛇冠如扇，涎水落地生苔枯死圈。",
+      "aliases_zh": [
+        "相繇"
+      ],
       "related_zh": [
         "共工"
       ],
@@ -418,9 +418,6 @@
     {
       "id": "xingxing",
       "name_zh": "狌狌",
-      "aliases_zh": [
-        "禺属之兽"
-      ],
       "corpus_zh": "五藏山經",
       "jing_zh": "南山經",
       "section_zh": "南山經之首（䧿山列）",
@@ -431,6 +428,9 @@
       "food_web_zh": "杂食性灵长类生态位：果实、嫩芽、昆虫及小型无脊椎动物；大型猛禽与猛兽的潜在猎物。",
       "trophic_role_zh": "次级消费者 / 种子传播者",
       "artistic_portrait_note_zh": "猕猴体型、白耳、可直立奔跑的动态剪影；背景桂树与迷榖发光小花点题。",
+      "aliases_zh": [
+        "禺属之兽"
+      ],
       "related_zh": [
         "迷榖（佩之不迷）为同域植物符号"
       ],
@@ -547,9 +547,6 @@
     {
       "id": "chichi_bird",
       "name_zh": "𪁺𩿧",
-      "aliases_zh": [
-        "三首六目鸟（基山）"
-      ],
       "corpus_zh": "五藏山經",
       "jing_zh": "南山經",
       "section_zh": "南山經之首（䧿山列）",
@@ -560,6 +557,9 @@
       "food_web_zh": "杂食偏虫：林地表昆虫、浆果；三首可演绎为分工警戒/啄食。",
       "trophic_role_zh": "次级消费者",
       "artistic_portrait_note_zh": "鸡形为基础，三颈三头呈扇形；六足抓地、三翼不对称以增怪异感。",
+      "aliases_zh": [
+        "三首六目鸟（基山）"
+      ],
       "related_zh": [
         "猼訑同山"
       ],
@@ -1083,9 +1083,6 @@
     {
       "id": "manman",
       "name_zh": "蛮蛮",
-      "aliases_zh": [
-        "比翼鸟"
-      ],
       "corpus_zh": "五藏山經",
       "jing_zh": "西山經",
       "section_zh": "西次三經",
@@ -1096,6 +1093,9 @@
       "food_web_zh": "杂食涉禽：水草、软体动物；猛禽捕食成鸟。",
       "trophic_role_zh": "次级消费者",
       "artistic_portrait_note_zh": "各半翼半目两只并立合成一鸟剪影；河风拉长线羽。",
+      "aliases_zh": [
+        "比翼鸟"
+      ],
       "related_zh": [
         "崇吾之山"
       ],

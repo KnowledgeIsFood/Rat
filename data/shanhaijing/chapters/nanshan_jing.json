@@ -3,9 +3,6 @@
     {
       "id": "xingxing",
       "name_zh": "狌狌",
-      "aliases_zh": [
-        "禺属之兽"
-      ],
       "corpus_zh": "五藏山經",
       "jing_zh": "南山經",
       "section_zh": "南山經之首（䧿山列）",
@@ -16,6 +13,9 @@
       "food_web_zh": "杂食性灵长类生态位：果实、嫩芽、昆虫及小型无脊椎动物；大型猛禽与猛兽的潜在猎物。",
       "trophic_role_zh": "次级消费者 / 种子传播者",
       "artistic_portrait_note_zh": "猕猴体型、白耳、可直立奔跑的动态剪影；背景桂树与迷榖发光小花点题。",
+      "aliases_zh": [
+        "禺属之兽"
+      ],
       "related_zh": [
         "迷榖（佩之不迷）为同域植物符号"
       ],
@@ -132,9 +132,6 @@
     {
       "id": "chichi_bird",
       "name_zh": "𪁺𩿧",
-      "aliases_zh": [
-        "三首六目鸟（基山）"
-      ],
       "corpus_zh": "五藏山經",
       "jing_zh": "南山經",
       "section_zh": "南山經之首（䧿山列）",
@@ -145,6 +142,9 @@
       "food_web_zh": "杂食偏虫：林地表昆虫、浆果；三首可演绎为分工警戒/啄食。",
       "trophic_role_zh": "次级消费者",
       "artistic_portrait_note_zh": "鸡形为基础，三颈三头呈扇形；六足抓地、三翼不对称以增怪异感。",
+      "aliases_zh": [
+        "三首六目鸟（基山）"
+      ],
       "related_zh": [
         "猼訑同山"
       ],

@@ -5,13 +5,13 @@
 ## 技术栈
 
 - **引擎**：Godot **4.6**（工程目录：`game/`）
-- **异兽资料**：`data/shanhaijing/chapters/*.json` → 脚本合并为 `game/data/creatures_catalog.json`，并生成 Markdown 目录 `docs/shanhaijing/`。
+- **异兽资料**：`data/shanhaijing/creatures_master.csv`（主表）→ `tools/emit_shanhaijing_chapters.py` 生成 `data/shanhaijing/chapters/*.json` → `tools/render_shanhaijing_docs.py` 合并为 `game/data/creatures_catalog.json`，并生成 Markdown 目录 `docs/shanhaijing/`。
 
 ## 快速开始
 
 1. 安装 [Godot 4.6](https://godotengine.org/download/archive/4.6-stable/)，用编辑器打开 `game/project.godot`。
 2. 运行主场景 `main.tscn`：界面会显示已从 `creatures_catalog.json` 载入的异兽条目数。
-3. 若你修改了 `tools/emit_shanhaijing_chapters.py` 或相关数据逻辑，请在仓库根目录执行：
+3. 若你修改了 **`data/shanhaijing/creatures_master.csv`**，请在仓库根目录执行：
 
 ```bash
 python3 tools/emit_shanhaijing_chapters.py
