@@ -21,10 +21,17 @@ DEFAULT_CHAPTER_GROUPS = [
     "zhongshan_jing",
     "haijing",
     "dahuang_jing",
+    "plants_nanshan_jing",
+    "plants_xishan_jing",
+    "plants_beishan_jing",
+    "plants_dongshan_jing",
+    "plants_zhongshan_jing",
+    "plants_wucang_misc",
 ]
 
 REQUIRED_COLUMNS = [
     "chapter_group",
+    "kind_zh",
     "id",
     "name_zh",
     "corpus_zh",
@@ -68,7 +75,8 @@ def load_rows() -> list[dict[str, str]]:
 
 
 def row_to_creature(row: dict[str, str]) -> dict:
-    c: dict = {k: (row.get(k) or "").strip() for k in REQUIRED_COLUMNS if k != "chapter_group"}
+    keys_out = [k for k in REQUIRED_COLUMNS if k != "chapter_group"]
+    c: dict = {k: (row.get(k) or "").strip() for k in keys_out}
     aliases = split_pipe(row.get("aliases_zh"))
     if aliases:
         c["aliases_zh"] = aliases

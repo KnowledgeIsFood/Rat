@@ -5,7 +5,7 @@ from __future__ import annotations
 
 import json
 import pathlib
-import sys
+from collections import defaultdict
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 CHAPTER_DIR = ROOT / "data" / "shanhaijing" / "chapters"
@@ -15,6 +15,7 @@ GODOT_DATA = ROOT / "game" / "data" / "creatures_catalog.json"
 
 REQUIRED_KEYS = (
     "id",
+    "kind_zh",
     "name_zh",
     "corpus_zh",
     "jing_zh",
@@ -79,6 +80,7 @@ def render_creature_md(c: dict) -> str:
     body = f"""# {c["name_zh"]}
 
 - **稳定 ID**：`{c["id"]}`
+- **类目**：{c["kind_zh"]}
 - **所属典籍**：{c["corpus_zh"]} · {c["jing_zh"]}
 - **篇段 / 列系**：{c["section_zh"]}
 - **所在山川 / 水域**：{c["mountain_zh"]}
@@ -125,27 +127,41 @@ def write_outputs(creatures: list[dict]) -> None:
         out.write_text(render_creature_md(c), encoding="utf-8")
 
     lines: list[str] = []
-    lines.append("# 山海经异兽目录（自动生成）\n")
-    lines.append("\n按 `jing_zh` 分组；条目文件位于 `creatures/by_id/`。\n")
+    lines.append("# 山海经条目目录（自动生成）\n")
+    lines.append("\n按 **类目（`kind_zh`）** 与 **篇名（`jing_zh`）** 分组；条目文件位于 `creatures/by_id/`。\n")
 
-    by_jing: dict[str, list[dict]] = {}
+    by_kind: dict[str, list[dict]] = defaultdict(list)
     for c in creatures:
-        by_jing.setdefault(c["jing_zh"], []).append(c)
+        by_kind[c["kind_zh"]].append(c)
 
-    for jing in sorted(by_jing.keys()):
-        lines.append(f"\n## {jing}\n")
-        for c in sorted(by_jing[jing], key=lambda x: x["id"]):
-            lines.append(f"- [{c['name_zh']}](creatures/by_id/{c['id']}.md) — `{c['id']}` — {c['mountain_zh']}")
+    for kind in sorted(by_kind.keys()):
+        lines.append(f"\n## 类目：{kind}\n")
+        by_jing: dict[str, list[dict]] = defaultdict(list)
+        for c in by_kind[kind]:
+            by_jing.setdefault(c["jing_zh"], []).append(c)
+        for jing in sorted(by_jing.keys()):
+            lines.append(f"\n### {jing}\n")
+            for c in sorted(by_jing[jing], key=lambda x: x["id"]):
+                lines.append(
+                    f"- [{c['name_zh']}](creatures/by_id/{c['id']}.md) — `{c['id']}` — {c['mountain_zh']}"
+                )
 
     OUT_CATALOG.parent.mkdir(parents=True, exist_ok=True)
     OUT_CATALOG.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
+    kind_counts: dict[str, int] = defaultdict(int)
+    for c in creatures:
+        kind_counts[c["kind_zh"]] += 1
+
     GODOT_DATA.parent.mkdir(parents=True, exist_ok=True)
+    entries = [{k: v for k, v in c.items() if not k.startswith("_")} for c in creatures]
     payload = {
-        "schema": "rat.shanhaijing.creatures_catalog.v1",
+        "schema": "rat.shanhaijing.catalog.v2",
         "generated_note": "merged from data/shanhaijing/chapters/*.json",
-        "creature_count": len(creatures),
-        "creatures": [{k: v for k, v in c.items() if not k.startswith("_")} for c in creatures],
+        "entry_count": len(creatures),
+        "kind_counts": dict(sorted(kind_counts.items(), key=lambda kv: (-kv[1], kv[0]))),
+        "entries": entries,
+        "creatures": entries,
     }
     GODOT_DATA.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
@@ -154,7 +170,7 @@ def main() -> None:
     creatures = load_creatures()
     validate(creatures)
     write_outputs(creatures)
-    print(f"OK: {len(creatures)} creatures -> {OUT_CATALOG} , {OUT_BY_ID}/ , {GODOT_DATA}")
+    print(f"OK: {len(creatures)} entries -> {OUT_CATALOG} , {OUT_BY_ID}/ , {GODOT_DATA}")
 
 
 if __name__ == "__main__":

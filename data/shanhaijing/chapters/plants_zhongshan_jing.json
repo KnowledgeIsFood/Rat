@@ -1,0 +1,348 @@
+{
+  "creatures": [
+    {
+      "kind_zh": "草木",
+      "id": "qin",
+      "name_zh": "蓁（莽草意象）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次二經",
+      "mountain_zh": "昆吾之山",
+      "literature_appearance_zh": "多赤铜，山有蓁莽。",
+      "traits_effects_zh": "毒草 hazard 与矿冶。",
+      "habitat_ecology_zh": "裸岩热风。",
+      "food_web_zh": "少大型食草；昆虫多。",
+      "trophic_role_zh": "初级生产者",
+      "artistic_portrait_note_zh": "赤茎蔓地。",
+      "related_zh": [
+        "山𤟤"
+      ],
+      "sources_note_zh": "归纳性条目。"
+    },
+    {
+      "kind_zh": "木本",
+      "id": "li_tree",
+      "name_zh": "栎",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山诸列",
+      "mountain_zh": "伊洛之间",
+      "literature_appearance_zh": "常见橡栎林，供橡实与炭材。",
+      "traits_effects_zh": "资源点与兽道。",
+      "habitat_ecology_zh": "落叶阔叶林。",
+      "food_web_zh": "野猪、熊取食橡实。",
+      "trophic_role_zh": "初级生产者",
+      "artistic_portrait_note_zh": "壳斗垂枝。",
+      "related_zh": [
+        "中山經"
+      ],
+      "sources_note_zh": "归纳。"
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_01_蒿",
+      "name_zh": "蒿（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "蒿形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_02_蓼",
+      "name_zh": "蓼（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "蓼形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_03_薇",
+      "name_zh": "薇（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "薇形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_04_蕨",
+      "name_zh": "蕨（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "蕨形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_05_苓",
+      "name_zh": "苓（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "苓形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_06_芎",
+      "name_zh": "芎（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "芎形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_07_术",
+      "name_zh": "术（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "术形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_08_芍药",
+      "name_zh": "芍药（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "芍药形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_09_芎䓖",
+      "name_zh": "芎䓖（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "芎䓖形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_10_黄连木",
+      "name_zh": "黄连木（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "黄连木形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_11_楮",
+      "name_zh": "楮（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "楮形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_12_榆",
+      "name_zh": "榆（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "榆形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_13_槐",
+      "name_zh": "槐（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "槐形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_14_梓",
+      "name_zh": "梓（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "梓形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_15_楠",
+      "name_zh": "楠（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "楠形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_16_荆",
+      "name_zh": "荆（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "荆形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_zhongshan_jing_17_杞",
+      "name_zh": "杞（中山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山經",
+      "mountain_zh": "中山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "伊洛河谷农耕—落叶林带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "杞形态可做模块化植被资产；色块随伊洛河谷农耕—落叶林带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 {
   "creatures": [
     {
+      "kind_zh": "神祇",
       "id": "qinglong_ma",
       "name_zh": "马身龙首神（中山祠系）",
       "corpus_zh": "五藏山經",
@@ -20,6 +21,7 @@
       "sources_note_zh": "据《中山經》诸篇祠神描述归纳，非单一山条。"
     },
     {
+      "kind_zh": "祥瑞",
       "id": "chenghuang_beast",
       "name_zh": "乘黄",
       "corpus_zh": "海經",
@@ -38,6 +40,7 @@
       "sources_note_zh": "据《海外西經》白民之国条大意；与《中山》叙事群可交叉引用。"
     },
     {
+      "kind_zh": "异兽",
       "id": "fuzhu",
       "name_zh": "夫诸",
       "corpus_zh": "五藏山經",
@@ -56,6 +59,7 @@
       "sources_note_zh": "据《中山經》敖岸之山条大意。"
     },
     {
+      "kind_zh": "蛇蟒",
       "id": "huashe",
       "name_zh": "化蛇",
       "corpus_zh": "五藏山經",
@@ -73,6 +77,215 @@
         "长右"
       ],
       "sources_note_zh": "据《中山經》化蛇条大意。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "suolu",
+      "name_zh": "犀渠",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次十經",
+      "mountain_zh": "厘山",
+      "literature_appearance_zh": "状如牛，苍身，其音如婴儿，食人。",
+      "traits_effects_zh": "食人兽链。",
+      "habitat_ecology_zh": "中山森林河谷。",
+      "food_web_zh": "顶级掠食。",
+      "trophic_role_zh": "顶级消费者",
+      "artistic_portrait_note_zh": "苍牛婴啼，角宽如铲。",
+      "related_zh": [
+        "厘山"
+      ],
+      "sources_note_zh": "《中山經》厘山条大意。"
+    },
+    {
+      "kind_zh": "奇禽",
+      "id": "shanxiao",
+      "name_zh": "山𤟤",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次二經",
+      "mountain_zh": "昆吾之山",
+      "literature_appearance_zh": "状如犬而人面，见则天下大风。",
+      "traits_effects_zh": "大风 hazard。",
+      "habitat_ecology_zh": "多赤铜，裸风坡。",
+      "food_web_zh": "杂食；与风母题耦合。",
+      "trophic_role_zh": "次级消费者",
+      "artistic_portrait_note_zh": "犬面人笑，风纹绕爪。",
+      "related_zh": [
+        "昆吾之山"
+      ],
+      "sources_note_zh": "字形各本不同，取大意。"
+    },
+    {
+      "kind_zh": "鳞介",
+      "id": "hu_bao",
+      "name_zh": "化蛇（水脉版）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次二經",
+      "mountain_zh": "阳水",
+      "literature_appearance_zh": "与 huashe 条目互补：强调水脉。",
+      "traits_effects_zh": "洪水。",
+      "habitat_ecology_zh": "裂谷溪。",
+      "food_web_zh": "肉食。",
+      "trophic_role_zh": "三级消费者",
+      "artistic_portrait_note_zh": "人面豺身顺水游弋。",
+      "related_zh": [
+        "化蛇"
+      ],
+      "sources_note_zh": "同兽分述。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_zhongshan_jing_01",
+      "name_zh": "「薄山—苟床山链」未具名异兽占位01",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次五經",
+      "mountain_zh": "中次五經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "薄山—苟床山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_zhongshan_jing_02",
+      "name_zh": "「薄山—苟床山链」未具名异兽占位02",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次五經",
+      "mountain_zh": "中次五經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "薄山—苟床山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_zhongshan_jing_03",
+      "name_zh": "「薄山—苟床山链」未具名异兽占位03",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次五經",
+      "mountain_zh": "中次五經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "薄山—苟床山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_zhongshan_jing_04",
+      "name_zh": "「薄山—苟床山链」未具名异兽占位04",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次五經",
+      "mountain_zh": "中次五經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "薄山—苟床山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_zhongshan_jing_05",
+      "name_zh": "「薄山—苟床山链」未具名异兽占位05",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次五經",
+      "mountain_zh": "中次五經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "薄山—苟床山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_zhongshan_jing_06",
+      "name_zh": "「薄山—苟床山链」未具名异兽占位06",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次五經",
+      "mountain_zh": "中次五經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "薄山—苟床山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_zhongshan_jing_07",
+      "name_zh": "「薄山—苟床山链」未具名异兽占位07",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次五經",
+      "mountain_zh": "中次五經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "薄山—苟床山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_zhongshan_jing_08",
+      "name_zh": "「薄山—苟床山链」未具名异兽占位08",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次五經",
+      "mountain_zh": "中次五經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "薄山—苟床山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
     }
   ]
 }

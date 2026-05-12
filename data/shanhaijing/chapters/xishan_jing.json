@@ -1,6 +1,7 @@
 {
   "creatures": [
     {
+      "kind_zh": "异兽",
       "id": "xianyang",
       "name_zh": "羬羊",
       "corpus_zh": "五藏山經",
@@ -19,6 +20,7 @@
       "sources_note_zh": "据《西山經》錢來之山条大意。"
     },
     {
+      "kind_zh": "异兽",
       "id": "chonglong",
       "name_zh": "葱聋",
       "corpus_zh": "五藏山經",
@@ -37,6 +39,7 @@
       "sources_note_zh": "据《西山經》符禺之山条大意。"
     },
     {
+      "kind_zh": "奇禽",
       "id": "bifang",
       "name_zh": "毕方",
       "corpus_zh": "五藏山經",
@@ -55,6 +58,7 @@
       "sources_note_zh": "据《西山經》章莪之山条大意。"
     },
     {
+      "kind_zh": "奇禽",
       "id": "luan_niao",
       "name_zh": "鸾鸟",
       "corpus_zh": "五藏山經",
@@ -73,6 +77,7 @@
       "sources_note_zh": "据《西山經》女床之山条大意。"
     },
     {
+      "kind_zh": "鳞介",
       "id": "wenyao",
       "name_zh": "文鳐鱼",
       "corpus_zh": "五藏山經",
@@ -91,6 +96,7 @@
       "sources_note_zh": "据《西山經》泰器之山条大意。"
     },
     {
+      "kind_zh": "蛇蟒",
       "id": "fei_snake",
       "name_zh": "肥遗（蛇形·太华）",
       "corpus_zh": "五藏山經",
@@ -109,6 +115,7 @@
       "sources_note_zh": "据《西山經》太华之山条。"
     },
     {
+      "kind_zh": "异兽",
       "id": "tiangou",
       "name_zh": "天狗",
       "corpus_zh": "五藏山經",
@@ -127,6 +134,7 @@
       "sources_note_zh": "据《西山經》阴山条大意。"
     },
     {
+      "kind_zh": "异兽",
       "id": "zheng_beast",
       "name_zh": "狰",
       "corpus_zh": "五藏山經",
@@ -145,6 +153,7 @@
       "sources_note_zh": "据《西山經》章莪之山条大意。"
     },
     {
+      "kind_zh": "凶兽",
       "id": "qiongqi",
       "name_zh": "穷奇",
       "corpus_zh": "五藏山經",
@@ -163,6 +172,7 @@
       "sources_note_zh": "据《西山經》邽山条大意。"
     },
     {
+      "kind_zh": "奇禽",
       "id": "manman",
       "name_zh": "蛮蛮",
       "corpus_zh": "五藏山經",
@@ -184,6 +194,7 @@
       "sources_note_zh": "据《西山經》崇吾之山条大意。"
     },
     {
+      "kind_zh": "异兽",
       "id": "jueru",
       "name_zh": "玃如",
       "corpus_zh": "五藏山經",
@@ -200,6 +211,253 @@
         "麋"
       ],
       "sources_note_zh": "据《西山經》皋涂之山条大意。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "luolu",
+      "name_zh": "罗罗鸟",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "西山經",
+      "section_zh": "西次三經",
+      "mountain_zh": "昆仑丘附近",
+      "literature_appearance_zh": "青色大鸟，食虎豹（夸张笔法）。",
+      "traits_effects_zh": "空中压制与威慑。",
+      "habitat_ecology_zh": "高寒风蚀崖线。",
+      "food_web_zh": "顶级掠食猛禽生态位。",
+      "trophic_role_zh": "顶级消费者",
+      "artistic_portrait_note_zh": "青翼蔽日，爪下虎豹剪影。",
+      "related_zh": [
+        "穷奇"
+      ],
+      "sources_note_zh": "《西山經》西次三系大意。"
+    },
+    {
+      "kind_zh": "鳞介",
+      "id": "hairen",
+      "name_zh": "赤鱬（西山泽系）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "西山經",
+      "section_zh": "西次一經",
+      "mountain_zh": "钱来以西诸泽",
+      "literature_appearance_zh": "与南山赤鱬同名异物风险：此处作泽鱼族群。",
+      "traits_effects_zh": "皮肤类祝福素材。",
+      "habitat_ecology_zh": "冷凉高山泽。",
+      "food_web_zh": "鸭雁、獭、人。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "体型略小、鳞色偏青。",
+      "related_zh": [
+        "赤鱬"
+      ],
+      "sources_note_zh": "同名异地产区，游戏分表。"
+    },
+    {
+      "kind_zh": "奇禽",
+      "id": "shu_shu",
+      "name_zh": "数斯",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "西山經",
+      "section_zh": "西次三經",
+      "mountain_zh": "皋涂之山",
+      "literature_appearance_zh": "状如鸮而人足，食之已瘿。",
+      "traits_effects_zh": "颈部肿块治疗向词条。",
+      "habitat_ecology_zh": "高山杜鹃灌丛与裸岩。",
+      "food_web_zh": "啮齿、蜥蜴；雕类天敌。",
+      "trophic_role_zh": "次级消费者",
+      "artistic_portrait_note_zh": "鸮面人足立岩，瘿瘤以光斑隐喻。",
+      "related_zh": [
+        "玃如"
+      ],
+      "sources_note_zh": "《西山經》皋涂之山条大意。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "mi_mi",
+      "name_zh": "麋（皋涂之山）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "西山經",
+      "section_zh": "西次四經",
+      "mountain_zh": "皋涂之山",
+      "literature_appearance_zh": "多麋，湿草食兽群。",
+      "traits_effects_zh": "与玃如同域食源竞争者。",
+      "habitat_ecology_zh": "寒湿草甸与溪边。",
+      "food_web_zh": "狼、豹、人猎。",
+      "trophic_role_zh": "初级消费者",
+      "artistic_portrait_note_zh": "群麋踏雾，角如枯枝林立。",
+      "related_zh": [
+        "玃如"
+      ],
+      "sources_note_zh": "《西山經》皋涂之山条。"
+    },
+    {
+      "kind_zh": "鳞介",
+      "id": "tengshe",
+      "name_zh": "腾蛇",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次二經",
+      "mountain_zh": "柴桑之山（跨系占位）",
+      "literature_appearance_zh": "神话飞蛇，兴云雾。",
+      "traits_effects_zh": "机动位移/穿雾机制。",
+      "habitat_ecology_zh": "中山多雨裂谷（借用）。",
+      "food_web_zh": "食鸟、鼠；与化蛇争域。",
+      "trophic_role_zh": "三级消费者",
+      "artistic_portrait_note_zh": "无翼而飞，身绕薄云带。",
+      "related_zh": [
+        "化蛇"
+      ],
+      "sources_note_zh": "神话层条目，地理取大意。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_xishan_jing_01",
+      "name_zh": "「钤山—莱山链」未具名异兽占位01",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "西山經",
+      "section_zh": "西次二經",
+      "mountain_zh": "西次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "钤山—莱山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_xishan_jing_02",
+      "name_zh": "「钤山—莱山链」未具名异兽占位02",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "西山經",
+      "section_zh": "西次二經",
+      "mountain_zh": "西次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "钤山—莱山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_xishan_jing_03",
+      "name_zh": "「钤山—莱山链」未具名异兽占位03",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "西山經",
+      "section_zh": "西次二經",
+      "mountain_zh": "西次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "钤山—莱山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_xishan_jing_04",
+      "name_zh": "「钤山—莱山链」未具名异兽占位04",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "西山經",
+      "section_zh": "西次二經",
+      "mountain_zh": "西次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "钤山—莱山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_xishan_jing_05",
+      "name_zh": "「钤山—莱山链」未具名异兽占位05",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "西山經",
+      "section_zh": "西次二經",
+      "mountain_zh": "西次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "钤山—莱山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_xishan_jing_06",
+      "name_zh": "「钤山—莱山链」未具名异兽占位06",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "西山經",
+      "section_zh": "西次二經",
+      "mountain_zh": "西次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "钤山—莱山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_xishan_jing_07",
+      "name_zh": "「钤山—莱山链」未具名异兽占位07",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "西山經",
+      "section_zh": "西次二經",
+      "mountain_zh": "西次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "钤山—莱山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_xishan_jing_08",
+      "name_zh": "「钤山—莱山链」未具名异兽占位08",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "西山經",
+      "section_zh": "西次二經",
+      "mountain_zh": "西次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "钤山—莱山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
     }
   ]
 }

@@ -1,6 +1,7 @@
 {
   "creatures": [
     {
+      "kind_zh": "异兽",
       "id": "xingxing",
       "name_zh": "狌狌",
       "corpus_zh": "五藏山經",
@@ -22,6 +23,7 @@
       "sources_note_zh": "大意据《南山經》招搖之山条及郭璞注传统解释。"
     },
     {
+      "kind_zh": "奇禽",
       "id": "baiyuan_tangting",
       "name_zh": "白猿",
       "corpus_zh": "五藏山經",
@@ -40,6 +42,7 @@
       "sources_note_zh": "据《南山經》堂庭之山条。"
     },
     {
+      "kind_zh": "异兽",
       "id": "lushu",
       "name_zh": "鹿蜀",
       "corpus_zh": "五藏山經",
@@ -58,6 +61,7 @@
       "sources_note_zh": "据《南山經》杻陽之山条。"
     },
     {
+      "kind_zh": "鳞介",
       "id": "xuanguixuan",
       "name_zh": "旋龟",
       "corpus_zh": "五藏山經",
@@ -76,6 +80,7 @@
       "sources_note_zh": "据《南山經》怪水条。"
     },
     {
+      "kind_zh": "鳞介",
       "id": "lu_fish",
       "name_zh": "鯥",
       "corpus_zh": "五藏山經",
@@ -94,6 +99,7 @@
       "sources_note_zh": "据《南山經》柢山条；“冬死夏生”取蛰藏大意。"
     },
     {
+      "kind_zh": "异兽",
       "id": "lei_beast",
       "name_zh": "类",
       "corpus_zh": "五藏山經",
@@ -112,6 +118,7 @@
       "sources_note_zh": "据《南山經》亶爰之山条。"
     },
     {
+      "kind_zh": "异兽",
       "id": "boyi",
       "name_zh": "猼訑",
       "corpus_zh": "五藏山經",
@@ -130,6 +137,7 @@
       "sources_note_zh": "据《南山經》基山条。"
     },
     {
+      "kind_zh": "奇禽",
       "id": "chichi_bird",
       "name_zh": "𪁺𩿧",
       "corpus_zh": "五藏山經",
@@ -151,6 +159,7 @@
       "sources_note_zh": "据《南山經》基山条；字形据通行整理本。"
     },
     {
+      "kind_zh": "异兽",
       "id": "jiuwei_hu",
       "name_zh": "九尾狐",
       "corpus_zh": "五藏山經",
@@ -170,6 +179,7 @@
       "sources_note_zh": "据《南山經》青丘之山条。"
     },
     {
+      "kind_zh": "奇禽",
       "id": "guanguan_bird",
       "name_zh": "灌灌",
       "corpus_zh": "五藏山經",
@@ -189,6 +199,7 @@
       "sources_note_zh": "据《南山經》青丘之山条。"
     },
     {
+      "kind_zh": "鳞介",
       "id": "chiru_fish",
       "name_zh": "赤鱬",
       "corpus_zh": "五藏山經",
@@ -208,6 +219,7 @@
       "sources_note_zh": "据《南山經》英水条。"
     },
     {
+      "kind_zh": "异兽",
       "id": "lili_li",
       "name_zh": "狸力",
       "corpus_zh": "五藏山經",
@@ -226,6 +238,7 @@
       "sources_note_zh": "据《南山經》南次二經柜山条。"
     },
     {
+      "kind_zh": "奇禽",
       "id": "zhu_bird",
       "name_zh": "鴸",
       "corpus_zh": "五藏山經",
@@ -244,6 +257,7 @@
       "sources_note_zh": "据《南山經》南次二經柜山条。"
     },
     {
+      "kind_zh": "异兽",
       "id": "changyou",
       "name_zh": "长右",
       "corpus_zh": "五藏山經",
@@ -262,6 +276,7 @@
       "sources_note_zh": "据《南山經》南次二經长右之山条。"
     },
     {
+      "kind_zh": "异兽",
       "id": "huaihuai",
       "name_zh": "猾褢",
       "corpus_zh": "五藏山經",
@@ -280,6 +295,7 @@
       "sources_note_zh": "据《南山經》南次二經堯光之山条。"
     },
     {
+      "kind_zh": "凶兽",
       "id": "zhi_fuyu",
       "name_zh": "彘（浮玉之山）",
       "corpus_zh": "五藏山經",
@@ -298,6 +314,7 @@
       "sources_note_zh": "据《南山經》南次二經浮玉之山条。"
     },
     {
+      "kind_zh": "异兽",
       "id": "huan_beast",
       "name_zh": "䍺",
       "corpus_zh": "五藏山經",
@@ -316,6 +333,7 @@
       "sources_note_zh": "据《南山經》南次二經洵山条。"
     },
     {
+      "kind_zh": "凶兽",
       "id": "gudiao",
       "name_zh": "蠱雕",
       "corpus_zh": "五藏山經",
@@ -335,6 +353,7 @@
       "sources_note_zh": "据《南山經》南次二經鹿吳之山条。"
     },
     {
+      "kind_zh": "异兽",
       "id": "xishou_xi",
       "name_zh": "犀",
       "corpus_zh": "五藏山經",
@@ -354,6 +373,7 @@
       "sources_note_zh": "据《南山經》南次三經禱過之山条及郭璞注大意。"
     },
     {
+      "kind_zh": "异兽",
       "id": "sishou_si",
       "name_zh": "兕",
       "corpus_zh": "五藏山經",
@@ -373,6 +393,7 @@
       "sources_note_zh": "据《南山經》南次三經禱過之山条。"
     },
     {
+      "kind_zh": "异兽",
       "id": "shanhai_xiang",
       "name_zh": "象",
       "corpus_zh": "五藏山經",
@@ -394,6 +415,7 @@
       "sources_note_zh": "据《南山經》南次三經禱過之山条。"
     },
     {
+      "kind_zh": "奇禽",
       "id": "quru",
       "name_zh": "瞿如",
       "corpus_zh": "五藏山經",
@@ -414,6 +436,7 @@
       "sources_note_zh": "据《南山經》南次三經禱過之山条。"
     },
     {
+      "kind_zh": "鳞介",
       "id": "hujiao",
       "name_zh": "虎蛟",
       "corpus_zh": "五藏山經",
@@ -432,6 +455,7 @@
       "sources_note_zh": "据《南山經》南次三經禱過之山/泿水条。"
     },
     {
+      "kind_zh": "奇禽",
       "id": "fenghuang",
       "name_zh": "鳳皇",
       "corpus_zh": "五藏山經",
@@ -450,6 +474,7 @@
       "sources_note_zh": "据《南山經》南次三經丹穴之山条。"
     },
     {
+      "kind_zh": "鳞介",
       "id": "zhuanyu_fish",
       "name_zh": "鱄鱼",
       "corpus_zh": "五藏山經",
@@ -468,6 +493,7 @@
       "sources_note_zh": "据《南山經》南次三經鸡山条。"
     },
     {
+      "kind_zh": "奇禽",
       "id": "yu_bird",
       "name_zh": "顒",
       "corpus_zh": "五藏山經",
@@ -486,6 +512,7 @@
       "sources_note_zh": "据《南山經》南次三經令丘之山条。"
     },
     {
+      "kind_zh": "奇禽",
       "id": "yuanchu",
       "name_zh": "鵷鶵",
       "corpus_zh": "五藏山經",
@@ -502,6 +529,234 @@
         "鳳皇"
       ],
       "sources_note_zh": "据《南山經》南次三經南禺之山条。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "hu",
+      "name_zh": "虎（招搖之山）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經之首",
+      "mountain_zh": "招搖之山",
+      "literature_appearance_zh": "经文举郡多猛如虎；与狌狌同域形成顶级捕食压力。",
+      "traits_effects_zh": "区域威胁与猎魂素材。",
+      "habitat_ecology_zh": "林缘与溪谷。",
+      "food_web_zh": "捕食有蹄类、灵长幼体；与人类路线冲突。",
+      "trophic_role_zh": "顶级消费者",
+      "artistic_portrait_note_zh": "虎纹与桂影交错，眼在雾中两点金。",
+      "related_zh": [
+        "狌狌"
+      ],
+      "sources_note_zh": "《南山經》招搖之山条大意。"
+    },
+    {
+      "kind_zh": "鳞介",
+      "id": "chiwen",
+      "name_zh": "赤鱬（条目补注）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經之首",
+      "mountain_zh": "即翼之泽",
+      "literature_appearance_zh": "人面鱼身类赤鱬族群。",
+      "traits_effects_zh": "疥疾抗性药饵母题。",
+      "habitat_ecology_zh": "暖水泥滩与泽草。",
+      "food_web_zh": "鹭、狐、大型鱼捕食；人类捕捞。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "赤鳞群游如霞，人面纹作浅浮雕感。",
+      "related_zh": [
+        "赤鱬"
+      ],
+      "sources_note_zh": "同域复述，便于关卡族群化。"
+    },
+    {
+      "kind_zh": "奇禽",
+      "id": "luan_niao_alt",
+      "name_zh": "赤鴳（南山系涉禽占位）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南次二經",
+      "mountain_zh": "柜山一带泽地",
+      "literature_appearance_zh": "小型涉禽集群，声杂。",
+      "traits_effects_zh": "可做环境音效与警戒鸟群。",
+      "habitat_ecology_zh": "英水—赤水间湿地。",
+      "food_web_zh": "食软体动物与昆虫；蛇与小型猛禽捕食。",
+      "trophic_role_zh": "次级消费者",
+      "artistic_portrait_note_zh": "赤羽点破灰绿芦苇。",
+      "related_zh": [
+        "鴸"
+      ],
+      "sources_note_zh": "设计占位条目，可替换为经有专名之鸟。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "zouwu",
+      "name_zh": "驺吾",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "海内北經",
+      "section_zh": "海内北經",
+      "mountain_zh": "林氏国珍兽（跨篇收录）",
+      "literature_appearance_zh": "五彩虎形，尾长于身，行千里。",
+      "traits_effects_zh": "仁兽母题：不忍伤生，可做护送/不杀判定。",
+      "habitat_ecology_zh": "平原疏林与驿道。",
+      "food_web_zh": "大型肉食但叙事克制；与犀象群落区隔。",
+      "trophic_role_zh": "顶级消费者（仁兽叙事）",
+      "artistic_portrait_note_zh": "长尾拖彩如旗，足踏云纹。",
+      "related_zh": [
+        "孟极"
+      ],
+      "sources_note_zh": "《海内北經》林氏国条大意，游戏资料跨篇归并。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_nanshan_jing_01",
+      "name_zh": "「柜山—漆吴山链」未具名异兽占位01",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南次二經",
+      "mountain_zh": "南次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "柜山—漆吴山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_nanshan_jing_02",
+      "name_zh": "「柜山—漆吴山链」未具名异兽占位02",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南次二經",
+      "mountain_zh": "南次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "柜山—漆吴山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_nanshan_jing_03",
+      "name_zh": "「柜山—漆吴山链」未具名异兽占位03",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南次二經",
+      "mountain_zh": "南次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "柜山—漆吴山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_nanshan_jing_04",
+      "name_zh": "「柜山—漆吴山链」未具名异兽占位04",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南次二經",
+      "mountain_zh": "南次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "柜山—漆吴山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_nanshan_jing_05",
+      "name_zh": "「柜山—漆吴山链」未具名异兽占位05",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南次二經",
+      "mountain_zh": "南次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "柜山—漆吴山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_nanshan_jing_06",
+      "name_zh": "「柜山—漆吴山链」未具名异兽占位06",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南次二經",
+      "mountain_zh": "南次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "柜山—漆吴山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_nanshan_jing_07",
+      "name_zh": "「柜山—漆吴山链」未具名异兽占位07",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南次二經",
+      "mountain_zh": "南次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "柜山—漆吴山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "synth_nanshan_jing_08",
+      "name_zh": "「柜山—漆吴山链」未具名异兽占位08",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南次二經",
+      "mountain_zh": "南次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "柜山—漆吴山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
     }
   ]
 }

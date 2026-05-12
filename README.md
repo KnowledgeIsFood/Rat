@@ -5,13 +5,14 @@
 ## 技术栈
 
 - **引擎**：Godot **4.6**（工程目录：`game/`）
-- **异兽资料**：`data/shanhaijing/creatures_master.csv`（主表）→ `tools/emit_shanhaijing_chapters.py` 生成 `data/shanhaijing/chapters/*.json` → `tools/render_shanhaijing_docs.py` 合并为 `game/data/creatures_catalog.json`，并生成 Markdown 目录 `docs/shanhaijing/`。
+- **博物资料**：`data/shanhaijing/creatures_master.csv`（含 `kind_zh`：奇禽/异兽/鳞介/草木等）→ `emit` 生成 `chapters/*.json` → `render` 合并为 `game/data/creatures_catalog.json` 与 `docs/shanhaijing/`。
 
 ## 快速开始
 
 1. 安装 [Godot 4.6](https://godotengine.org/download/archive/4.6-stable/)，用编辑器打开 `game/project.godot`。
-2. 运行主场景 `main.tscn`：界面会显示已从 `creatures_catalog.json` 载入的异兽条目数。
-3. 若你修改了 **`data/shanhaijing/creatures_master.csv`**，请在仓库根目录执行：
+2. 运行主场景 `main.tscn`：界面会显示载入条目总数与 **类目计数**（`kind_counts`）。
+3. 若需 **批量占位扩表**（会重写 CSV、追加 `synth_*` / `plant_*` 行）：`python3 tools/expand_shanhaijing_master_csv.py`（勿在 CI/云端每次自动跑，除非你希望保持占位）。
+4. 若你修改了 **`data/shanhaijing/creatures_master.csv`**，请在仓库根目录执行：
 
 ```bash
 python3 tools/emit_shanhaijing_chapters.py
@@ -22,7 +23,7 @@ python3 tools/render_shanhaijing_docs.py
 
 - 人类可读总目录：`docs/shanhaijing/CATALOG.md`
 - 背景说明：`docs/shanhaijing/README.md`、`docs/shanhaijing/00_综述与体量说明.md`
-- 生态/食物链设计总论：`docs/shanhaijing/生态环境与食物链总论.md`
+- 表格列说明：`docs/shanhaijing/表格维护说明.md`
 
 ## 许可与来源
 

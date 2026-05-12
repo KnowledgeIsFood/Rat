@@ -1,6 +1,7 @@
 {
   "creatures": [
     {
+      "kind_zh": "神祇",
       "id": "dijiang",
       "name_zh": "帝江",
       "corpus_zh": "海經",
@@ -19,6 +20,7 @@
       "sources_note_zh": "据《海内西經》天山条大意。"
     },
     {
+      "kind_zh": "神祇",
       "id": "xingtian",
       "name_zh": "刑天",
       "corpus_zh": "海經",
@@ -37,6 +39,7 @@
       "sources_note_zh": "据《海外西經》刑天条。"
     },
     {
+      "kind_zh": "凶兽",
       "id": "xiangliu",
       "name_zh": "相柳",
       "corpus_zh": "海經",
@@ -58,6 +61,7 @@
       "sources_note_zh": "据《海内北經》相柳条大意。"
     },
     {
+      "kind_zh": "鳞介",
       "id": "basha",
       "name_zh": "巴蛇",
       "corpus_zh": "海經",
@@ -76,6 +80,7 @@
       "sources_note_zh": "据《海内南經》巴蛇食象条大意。"
     },
     {
+      "kind_zh": "神祇",
       "id": "lulu_kunlun",
       "name_zh": "陆吾",
       "corpus_zh": "海經",
@@ -94,6 +99,7 @@
       "sources_note_zh": "据《海内西經》昆仑条大意。"
     },
     {
+      "kind_zh": "神祇",
       "id": "kaiming_shou",
       "name_zh": "开明兽",
       "corpus_zh": "海經",
@@ -110,6 +116,44 @@
         "陆吾"
       ],
       "sources_note_zh": "据《海内西經》开明条大意。"
+    },
+    {
+      "kind_zh": "神祇",
+      "id": "yub",
+      "name_zh": "禺强",
+      "corpus_zh": "海經",
+      "jing_zh": "海外北經",
+      "section_zh": "海外北經",
+      "mountain_zh": "北海",
+      "literature_appearance_zh": "人面鸟身，珥两青蛇，践两赤蛇；海神风神。",
+      "traits_effects_zh": "海域关卡主宰。",
+      "habitat_ecology_zh": "北海冰洋与浮冰。",
+      "food_web_zh": "神话位。",
+      "trophic_role_zh": "神祇",
+      "artistic_portrait_note_zh": "巨翼下青红双蛇如缰。",
+      "related_zh": [
+        "玄武系"
+      ],
+      "sources_note_zh": "《海外北經》大意。"
+    },
+    {
+      "kind_zh": "凶兽",
+      "id": "jiu_feng",
+      "name_zh": "九凤",
+      "corpus_zh": "海經",
+      "jing_zh": "大荒北經",
+      "section_zh": "大荒北經",
+      "mountain_zh": "北极天柜",
+      "literature_appearance_zh": "九首人面鸟身。",
+      "traits_effects_zh": "多首技能轮替。",
+      "habitat_ecology_zh": "极寒风穴。",
+      "food_web_zh": "神话掠食。",
+      "trophic_role_zh": "神怪",
+      "artistic_portrait_note_zh": "九颈扇开如屏。",
+      "related_zh": [
+        "九婴"
+      ],
+      "sources_note_zh": "《大荒北經》系大意。"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # 《山海经》资料层（游戏策划向）
 
-本目录与 `data/shanhaijing/` 共同构成 **异兽数据库 v1**：以「典籍归属 → 山川/水体 → 个体条目」组织，每条包含 **文述画像**、**特点与异效**、**生态环境（推演）**、**生物链关系（推演）** 与 **美术转化要点**。
+本目录与 `data/shanhaijing/` 共同构成 **博物资料层**：以 `creatures_master.csv` 为主表，列字段含 **`kind_zh`（奇禽 / 异兽 / 鳞介 / 草木等）** 与山川归属，经脚本生成 JSON、Markdown 与 Godot 用 `creatures_catalog.json`。
 
 ## 快速入口
 
-- **总目录（自动生成）**：[CATALOG.md](CATALOG.md)
+- **总目录（自动生成）**：[CATALOG.md](CATALOG.md)（按 `kind_zh` 再按 `jing_zh` 分组）
 - **单条 Markdown（自动生成）**：`creatures/by_id/<id>.md`
 - **机读合并表（供 Godot 读取）**：`game/data/creatures_catalog.json`（由脚本从 `data/shanhaijing/chapters/*.json` 合并生成）
 

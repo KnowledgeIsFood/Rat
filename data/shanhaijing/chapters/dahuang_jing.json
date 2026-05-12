@@ -1,6 +1,7 @@
 {
   "creatures": [
     {
+      "kind_zh": "凶兽",
       "id": "jiuying",
       "name_zh": "九婴",
       "corpus_zh": "大荒經",
@@ -19,6 +20,7 @@
       "sources_note_zh": "据《大荒北經》九婴条大意。"
     },
     {
+      "kind_zh": "神祇",
       "id": "kuafu",
       "name_zh": "夸父",
       "corpus_zh": "大荒經",
@@ -37,6 +39,7 @@
       "sources_note_zh": "据《大荒北經》夸父条大意。"
     },
     {
+      "kind_zh": "神祇",
       "id": "yinglong",
       "name_zh": "应龙",
       "corpus_zh": "大荒經",
@@ -56,6 +59,7 @@
       "sources_note_zh": "据《大荒东经》应龙条大意。"
     },
     {
+      "kind_zh": "神祇",
       "id": "kui_beast",
       "name_zh": "夔",
       "corpus_zh": "大荒經",
@@ -72,6 +76,44 @@
         "黄帝战蚩尤"
       ],
       "sources_note_zh": "据《大荒东经》夔牛条大意。"
+    },
+    {
+      "kind_zh": "神祇",
+      "id": "xihe",
+      "name_zh": "羲和",
+      "corpus_zh": "大荒經",
+      "jing_zh": "大荒南經",
+      "section_zh": "大荒南經",
+      "mountain_zh": "东南海之外",
+      "literature_appearance_zh": "生十日，浴日于甘渊。",
+      "traits_effects_zh": "时间/日照机制叙事核。",
+      "habitat_ecology_zh": "甘渊湿地。",
+      "food_web_zh": "神话。",
+      "trophic_role_zh": "神祇",
+      "artistic_portrait_note_zh": "浴日金光喷涌。",
+      "related_zh": [
+        "太阳神话"
+      ],
+      "sources_note_zh": "人物神，资料层供剧情。"
+    },
+    {
+      "kind_zh": "神祇",
+      "id": "changxi",
+      "name_zh": "常羲",
+      "corpus_zh": "大荒經",
+      "jing_zh": "大荒西經",
+      "section_zh": "大荒西經",
+      "mountain_zh": "月亮神话",
+      "literature_appearance_zh": "生十二月，浴月。",
+      "traits_effects_zh": "月相关卡轴。",
+      "habitat_ecology_zh": "西极寒池。",
+      "food_web_zh": "神话。",
+      "trophic_role_zh": "神祇",
+      "artistic_portrait_note_zh": "月轮如十二缺片。",
+      "related_zh": [
+        "月亮神话"
+      ],
+      "sources_note_zh": "人物神。"
     }
   ]
 }

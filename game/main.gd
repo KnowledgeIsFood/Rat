@@ -14,8 +14,20 @@ func _ready() -> void:
 	if typeof(parsed) != TYPE_DICTIONARY:
 		count_label.text = "catalog JSON 解析失败"
 		return
-	var creatures: Array = parsed.get("creatures", [])
-	count_label.text = "载入异兽条目数：%d（%s）" % [
-		creatures.size(),
+	var entries: Array = parsed.get("entries", parsed.get("creatures", []))
+	var kc: Variant = parsed.get("kind_counts", {})
+	var kind_line := ""
+	if typeof(kc) == TYPE_DICTIONARY:
+		var bits: Array = []
+		for k in (kc as Dictionary).keys():
+			bits.append("%s:%s" % [str(k), str((kc as Dictionary)[k])])
+		bits.sort()
+		for i in range(bits.size()):
+			if i > 0:
+				kind_line += "；"
+			kind_line += str(bits[i])
+	count_label.text = "载入条目：%d。类目计数：%s\n（%s）" % [
+		entries.size(),
+		kind_line if kind_line != "" else "—",
 		str(parsed.get("generated_note", "")),
 	]
