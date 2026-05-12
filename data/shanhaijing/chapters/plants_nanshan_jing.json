@@ -1,0 +1,386 @@
+{
+  "creatures": [
+    {
+      "kind_zh": "草木",
+      "id": "zhuyu",
+      "name_zh": "祝余",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經之首",
+      "mountain_zh": "招搖之山",
+      "literature_appearance_zh": "状如韭而青华。",
+      "traits_effects_zh": "食之不饥（耐力资源）。",
+      "habitat_ecology_zh": "西海之滨山麓草本带。",
+      "food_web_zh": "被食草兽与人类采集；与迷榖伴生。",
+      "trophic_role_zh": "初级生产者",
+      "artistic_portrait_note_zh": "青华如星点，叶如韭列。",
+      "related_zh": [
+        "迷榖"
+      ],
+      "sources_note_zh": "《南山經》招搖之山条。"
+    },
+    {
+      "kind_zh": "草木",
+      "id": "migu",
+      "name_zh": "迷榖",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經之首",
+      "mountain_zh": "招搖之山",
+      "literature_appearance_zh": "状如榖而黑理，其华四照。",
+      "traits_effects_zh": "佩之不迷（导航 buff）。",
+      "habitat_ecology_zh": "林缘与石缝。",
+      "food_web_zh": "菌根与昆虫访花；被狌狌栖息地共享。",
+      "trophic_role_zh": "初级生产者",
+      "artistic_portrait_note_zh": "黑理树干，四照华光。",
+      "related_zh": [
+        "祝余"
+      ],
+      "sources_note_zh": "《南山經》招搖之山条。"
+    },
+    {
+      "kind_zh": "木本",
+      "id": "xian_tree",
+      "name_zh": "棪木",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經之首",
+      "mountain_zh": "堂庭之山",
+      "literature_appearance_zh": "赤实如柰。",
+      "traits_effects_zh": "果实资源与猿群食源。",
+      "habitat_ecology_zh": "亚热带山地林。",
+      "food_web_zh": "白猿取食；种子被鸟扩散。",
+      "trophic_role_zh": "初级生产者",
+      "artistic_portrait_note_zh": "赤实垂枝如小灯笼。",
+      "related_zh": [
+        "白猿"
+      ],
+      "sources_note_zh": "《南山經》堂庭之山条。"
+    },
+    {
+      "kind_zh": "草木",
+      "id": "baihao",
+      "name_zh": "白䓘",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南次三經",
+      "mountain_zh": "仑者之山",
+      "literature_appearance_zh": "状如榖而赤理，其汗如漆，其味如饴，食者不饥，可释劳。",
+      "traits_effects_zh": "双效药剂母题。",
+      "habitat_ecology_zh": "多青雘的山阴。",
+      "food_web_zh": "树脂昆虫共生；人割采。",
+      "trophic_role_zh": "初级生产者",
+      "artistic_portrait_note_zh": "赤理流漆如蜜线。",
+      "related_zh": [
+        "仑者之山"
+      ],
+      "sources_note_zh": "《南山經》仑者之山条。"
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_01_蒿",
+      "name_zh": "蒿（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "蒿形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_02_蓼",
+      "name_zh": "蓼（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "蓼形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_03_薇",
+      "name_zh": "薇（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "薇形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_04_蕨",
+      "name_zh": "蕨（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "蕨形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_05_苓",
+      "name_zh": "苓（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "苓形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_06_芎",
+      "name_zh": "芎（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "芎形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_07_术",
+      "name_zh": "术（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "术形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_08_芍药",
+      "name_zh": "芍药（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "芍药形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_09_芎䓖",
+      "name_zh": "芎䓖（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "芎䓖形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_10_黄连木",
+      "name_zh": "黄连木（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "黄连木形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_11_楮",
+      "name_zh": "楮（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "楮形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_12_榆",
+      "name_zh": "榆（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "榆形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_13_槐",
+      "name_zh": "槐（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "槐形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_14_梓",
+      "name_zh": "梓（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "梓形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_15_楠",
+      "name_zh": "楠（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "楠形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_16_荆",
+      "name_zh": "荆（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "荆形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    },
+    {
+      "kind_zh": "草木",
+      "id": "plant_plants_nanshan_jing_17_杞",
+      "name_zh": "杞（南山诸列归纳）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "南山經",
+      "section_zh": "南山經",
+      "mountain_zh": "南山诸列常见草本/木本之一（归纳占位）。",
+      "literature_appearance_zh": "资源采集/药剂基底；具体经效待按选定注本逐条核对后改写。",
+      "traits_effects_zh": "亚热带林草带",
+      "habitat_ecology_zh": "与昆虫、植食兽、人类采集形成能流；菌根分解者参与。",
+      "food_web_zh": "初级生产者",
+      "trophic_role_zh": "杞形态可做模块化植被资产；色块随亚热带林草带调整。",
+      "artistic_portrait_note_zh": "草木归纳",
+      "related_zh": [
+        "归纳占位，非单山专条逐字稿。"
+      ]
+    }
+  ]
+}

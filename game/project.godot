@@ -1,0 +1,18 @@
+; Godot 4.6 — Rat（山海经题材）
+; https://docs.godotengine.org/
+
+config_version=5
+
+[application]
+config/name="Rat"
+config/description="五藏山经（南山西山北山东山中山）· 成长 / 异变 / 肉鸽"
+run/main_scene="res://main.tscn"
+config/features=PackedStringArray("4.6", "Forward Plus")
+config/icon="res://icon.svg"
+
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=720
+
+[rendering]
+renderer/rendering_method="forward_plus"

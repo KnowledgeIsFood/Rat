@@ -1,0 +1,292 @@
+{
+  "creatures": [
+    {
+      "kind_zh": "异兽",
+      "id": "liuju",
+      "name_zh": "从从",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次一經",
+      "mountain_zh": "栒状之山",
+      "literature_appearance_zh": "其状如犬，六足。",
+      "traits_effects_zh": "见则其国多狡客（狡诈人物事件）。",
+      "habitat_ecology_zh": "多水无草木；滨海滩涂与风蚀岩柱。",
+      "food_web_zh": "食腐与小型甲壳；六足利于滩涂快速移动。",
+      "trophic_role_zh": "杂食中级消费者",
+      "artistic_portrait_note_zh": "犬形六足沙滩跑痕交错；远天狡月。",
+      "aliases_zh": [
+        "六足犬形兽"
+      ],
+      "related_zh": [
+        "条菅之水"
+      ],
+      "sources_note_zh": "据《东山經》栒状之山条大意。"
+    },
+    {
+      "kind_zh": "异兽",
+      "id": "dangkang",
+      "name_zh": "当康",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次四經",
+      "mountain_zh": "钦山",
+      "literature_appearance_zh": "其状如豚而有牙。",
+      "traits_effects_zh": "见则天下穰（丰收征兆）。",
+      "habitat_ecology_zh": "多玉无石，师水出焉；农耕河谷想象。",
+      "food_web_zh": "掘根块茎类；粪便肥田促进微生物—作物链。",
+      "trophic_role_zh": "初级消费者 / 农耕祥瑞",
+      "artistic_portrait_note_zh": "短豚獠牙，踏过金黄穗浪；牙上挂露。",
+      "related_zh": [
+        "丰收"
+      ],
+      "sources_note_zh": "据《东次四經》钦山条大意。"
+    },
+    {
+      "kind_zh": "鳞介",
+      "id": "ziyu_fish",
+      "name_zh": "茈鱼",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次一經",
+      "mountain_zh": "东次一經水系（妑水一带，各本略异）",
+      "literature_appearance_zh": "状如鲋而赤鳞，其音如叱。",
+      "traits_effects_zh": "食之不骄（情绪类），可做镇静类药剂。",
+      "habitat_ecology_zh": "多青雘、多赤鱬类近水域；暖水浅沼。",
+      "food_web_zh": "杂食小鱼：藻类、无脊椎动物；鹭、蛇、大型鱼捕食。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "鲫形赤鳞，叱声化为水纹冲击波；与南山赤鱬可做跨域变体。",
+      "related_zh": [
+        "赤鱬（南山）"
+      ],
+      "sources_note_zh": "据《东山經》东次一經青丘之山条大意。"
+    },
+    {
+      "kind_zh": "鳞介",
+      "id": "jiaojiao_fish",
+      "name_zh": "鳛鳛之鱼",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次一經",
+      "mountain_zh": "涿光之山（嚣水）",
+      "literature_appearance_zh": "状如鹊而十翼，鳞羽在羽端，其音如鹊。",
+      "traits_effects_zh": "怪鱼群游可做光污染/声诱陷阱。",
+      "habitat_ecology_zh": "嚣水西流注河；多鳛鳛之鱼，藻华与砾石浅滩。",
+      "food_web_zh": "滤食/杂食：浮游生物；大型肉食鱼与鸟捕食。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "鹊形十翼夸张对称，鳞在羽端如金属片反光。",
+      "related_zh": [
+        "嚣水"
+      ],
+      "sources_note_zh": "据《东山經》涿光之山条大意。"
+    },
+    {
+      "kind_zh": "鳞介",
+      "id": "jingjing",
+      "name_zh": "精精",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次三經",
+      "mountain_zh": "踇隅之山",
+      "literature_appearance_zh": "状如牛马尾，赤尾。",
+      "traits_effects_zh": "见则其国多疫火（旱火双象，取大意）。",
+      "habitat_ecology_zh": "海滨多赤垩。",
+      "food_web_zh": "草食；与旱灾叙事绑定。",
+      "trophic_role_zh": "初级消费者",
+      "artistic_portrait_note_zh": "赤尾如焰帚扫沙。",
+      "related_zh": [
+        "东山经"
+      ],
+      "sources_note_zh": "各本异文多，取袁珂系大意。"
+    },
+    {
+      "kind_zh": "奇禽",
+      "id": "fu_sang_niao",
+      "name_zh": "扶桑十日鸟（神话化占位）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次三經",
+      "mountain_zh": "扶桑",
+      "literature_appearance_zh": "乌栖十日神话与《山海》叙海交互。",
+      "traits_effects_zh": "时间轴/灼烧 hazard。",
+      "habitat_ecology_zh": "东海日出雾带。",
+      "food_web_zh": "神话位。",
+      "trophic_role_zh": "神祇",
+      "artistic_portrait_note_zh": "乌影叠日，枝如青铜。",
+      "related_zh": [
+        "太阳神话"
+      ],
+      "sources_note_zh": "非严格单兽，作关卡母题占位。"
+    },
+    {
+      "kind_zh": "鳞介",
+      "id": "haoma",
+      "name_zh": "豪鱼",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次七經",
+      "mountain_zh": "渠猪之山（跨系）",
+      "literature_appearance_zh": "赤尾赤喙，食之可已疣。",
+      "traits_effects_zh": "治疗类掉落。",
+      "habitat_ecology_zh": "石灰岩溪涧。",
+      "food_web_zh": "杂食藻类；人捕。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "赤尾如梳，游于白石隙。",
+      "related_zh": [
+        "中山經"
+      ],
+      "sources_note_zh": "跨系收录。"
+    },
+    {
+      "kind_zh": "奇禽",
+      "id": "synth_dongshan_jing_01",
+      "name_zh": "「空桑—北号山链」未具名异兽占位01",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次二經",
+      "mountain_zh": "东次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "空桑—北号山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "奇禽",
+      "id": "synth_dongshan_jing_02",
+      "name_zh": "「空桑—北号山链」未具名异兽占位02",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次二經",
+      "mountain_zh": "东次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "空桑—北号山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "奇禽",
+      "id": "synth_dongshan_jing_03",
+      "name_zh": "「空桑—北号山链」未具名异兽占位03",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次二經",
+      "mountain_zh": "东次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "空桑—北号山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "奇禽",
+      "id": "synth_dongshan_jing_04",
+      "name_zh": "「空桑—北号山链」未具名异兽占位04",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次二經",
+      "mountain_zh": "东次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "空桑—北号山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "奇禽",
+      "id": "synth_dongshan_jing_05",
+      "name_zh": "「空桑—北号山链」未具名异兽占位05",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次二經",
+      "mountain_zh": "东次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "空桑—北号山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "奇禽",
+      "id": "synth_dongshan_jing_06",
+      "name_zh": "「空桑—北号山链」未具名异兽占位06",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次二經",
+      "mountain_zh": "东次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "空桑—北号山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "奇禽",
+      "id": "synth_dongshan_jing_07",
+      "name_zh": "「空桑—北号山链」未具名异兽占位07",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次二經",
+      "mountain_zh": "东次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "空桑—北号山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    },
+    {
+      "kind_zh": "奇禽",
+      "id": "synth_dongshan_jing_08",
+      "name_zh": "「空桑—北号山链」未具名异兽占位08",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次二經",
+      "mountain_zh": "东次二經列山·经载多怪兽/怪鸟/怪鱼（择一占位）",
+      "literature_appearance_zh": "形体未单列专名；此行为关卡密度占位，宜后续替换为注本可核之专名。",
+      "traits_effects_zh": "可映射为普通精英或环境 hazard 模板。",
+      "habitat_ecology_zh": "空桑—北号山链典型生境：溪谷、裸岩、疏林组合（推演）。",
+      "food_web_zh": "与区域顶级捕食者/人类聚落形成能流交换；细节待替换专名后重写。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "剪影块面+一两处夸张器官（角/尾/翼）待原画定稿。",
+      "related_zh": [
+        "占位条目"
+      ],
+      "sources_note_zh": "非经文专条，纯设计占位；补全时删除或替换。"
+    }
+  ]
+}

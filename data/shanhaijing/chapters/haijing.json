@@ -1,0 +1,159 @@
+{
+  "creatures": [
+    {
+      "kind_zh": "神祇",
+      "id": "dijiang",
+      "name_zh": "帝江",
+      "corpus_zh": "海經",
+      "jing_zh": "海内西經",
+      "section_zh": "海内西經",
+      "mountain_zh": "天山",
+      "literature_appearance_zh": "状如黄囊，赤如丹火，六足四翼，浑敦无面目，是识歌舞。",
+      "traits_effects_zh": "中央混沌神格；歌舞可做节奏类机制。",
+      "habitat_ecology_zh": "天山雪线之上神话空间；无面目故无视觉捕食链。",
+      "food_web_zh": "不食或食气；与凡俗食物链断联。",
+      "trophic_role_zh": "神话顶层",
+      "artistic_portrait_note_zh": "黄囊团块六足四翼，丹火内透；面部留白仅声纹。",
+      "related_zh": [
+        "混沌"
+      ],
+      "sources_note_zh": "据《海内西經》天山条大意。"
+    },
+    {
+      "kind_zh": "神祇",
+      "id": "xingtian",
+      "name_zh": "刑天",
+      "corpus_zh": "海經",
+      "jing_zh": "海外西經",
+      "section_zh": "海外西經",
+      "mountain_zh": "常羊之山",
+      "literature_appearance_zh": "以乳为目，以脐为口，操干戚而舞。",
+      "traits_effects_zh": "不屈战斗循环；断首重生母题。",
+      "habitat_ecology_zh": "常羊之山神话战场；硝烟与荒草。",
+      "food_web_zh": "神战存在，弱生态描写；可映射为怨念驱动。",
+      "trophic_role_zh": "战神位阶",
+      "artistic_portrait_note_zh": "无头躯干乳目脐口，干戚挥舞火星。",
+      "related_zh": [
+        "黄帝战叙事"
+      ],
+      "sources_note_zh": "据《海外西經》刑天条。"
+    },
+    {
+      "kind_zh": "凶兽",
+      "id": "xiangliu",
+      "name_zh": "相柳",
+      "corpus_zh": "海經",
+      "jing_zh": "海内北經",
+      "section_zh": "海内北經",
+      "mountain_zh": "共工台附近泽中",
+      "literature_appearance_zh": "九首蛇身，所过之处化为沼泽毒液。",
+      "traits_effects_zh": "地形毒害 AOE；共工臣属。",
+      "habitat_ecology_zh": "水草沼泽；强酸/毒藻推演。",
+      "food_web_zh": "顶级掠食：大型兽与人；毒涎改变土壤微生物群落，抑制高等植物。",
+      "trophic_role_zh": "顶级消费者 / 环境毁灭者",
+      "artistic_portrait_note_zh": "九头蛇冠如扇，涎水落地生苔枯死圈。",
+      "aliases_zh": [
+        "相繇"
+      ],
+      "related_zh": [
+        "共工"
+      ],
+      "sources_note_zh": "据《海内北經》相柳条大意。"
+    },
+    {
+      "kind_zh": "鳞介",
+      "id": "basha",
+      "name_zh": "巴蛇",
+      "corpus_zh": "海經",
+      "jing_zh": "海内南經",
+      "section_zh": "海内南經",
+      "mountain_zh": "巴地（象骨神话）",
+      "literature_appearance_zh": "玄蛇吞象，三岁而出其骨（通行大意）。",
+      "traits_effects_zh": "吞噬成长：吞敌延迟消化获得属性（强肉鸽机制）。",
+      "habitat_ecology_zh": "湿热河谷丛林；沼泽与象道交汇。",
+      "food_web_zh": "顶级：象、鹿、人；消化周期长形成能量瓶颈。",
+      "trophic_role_zh": "顶级消费者",
+      "artistic_portrait_note_zh": "玄蛇盘象，象骨三年后如白珊瑚破土。",
+      "related_zh": [
+        "象"
+      ],
+      "sources_note_zh": "据《海内南經》巴蛇食象条大意。"
+    },
+    {
+      "kind_zh": "神祇",
+      "id": "lulu_kunlun",
+      "name_zh": "陆吾",
+      "corpus_zh": "海經",
+      "jing_zh": "海内西經",
+      "section_zh": "海内西經",
+      "mountain_zh": "昆仑之丘",
+      "literature_appearance_zh": "虎身而九尾，人面而虎爪；司帝之下都。",
+      "traits_effects_zh": "守门 BOSS / 关卡权限判定者。",
+      "habitat_ecology_zh": "昆仑高寒石漠与神域叠层；弱凡俗生态。",
+      "food_web_zh": "神司不涉凡俗食物链；可设定为吞食“违律者”。",
+      "trophic_role_zh": "神祇位阶",
+      "artistic_portrait_note_zh": "虎躯九尾如屏，人面威严；背后天门刻度。",
+      "related_zh": [
+        "开明兽"
+      ],
+      "sources_note_zh": "据《海内西經》昆仑条大意。"
+    },
+    {
+      "kind_zh": "神祇",
+      "id": "kaiming_shou",
+      "name_zh": "开明兽",
+      "corpus_zh": "海經",
+      "jing_zh": "海内西經",
+      "section_zh": "海内西經",
+      "mountain_zh": "昆仑之丘（开明门）",
+      "literature_appearance_zh": "身大类虎而九首，皆人面，东向立昆仑上。",
+      "traits_effects_zh": "九首人面巡逻机制；每首不同技能轮替。",
+      "habitat_ecology_zh": "昆仑门阙；神域与凡域交界强风带。",
+      "food_web_zh": "神域守卫；以“闯入者”为猎。",
+      "trophic_role_zh": "神祇位阶",
+      "artistic_portrait_note_zh": "九首环形排列，人面表情各异；东向逆光剪影。",
+      "related_zh": [
+        "陆吾"
+      ],
+      "sources_note_zh": "据《海内西經》开明条大意。"
+    },
+    {
+      "kind_zh": "神祇",
+      "id": "yub",
+      "name_zh": "禺强",
+      "corpus_zh": "海經",
+      "jing_zh": "海外北經",
+      "section_zh": "海外北經",
+      "mountain_zh": "北海",
+      "literature_appearance_zh": "人面鸟身，珥两青蛇，践两赤蛇；海神风神。",
+      "traits_effects_zh": "海域关卡主宰。",
+      "habitat_ecology_zh": "北海冰洋与浮冰。",
+      "food_web_zh": "神话位。",
+      "trophic_role_zh": "神祇",
+      "artistic_portrait_note_zh": "巨翼下青红双蛇如缰。",
+      "related_zh": [
+        "玄武系"
+      ],
+      "sources_note_zh": "《海外北經》大意。"
+    },
+    {
+      "kind_zh": "凶兽",
+      "id": "jiu_feng",
+      "name_zh": "九凤",
+      "corpus_zh": "海經",
+      "jing_zh": "大荒北經",
+      "section_zh": "大荒北經",
+      "mountain_zh": "北极天柜",
+      "literature_appearance_zh": "九首人面鸟身。",
+      "traits_effects_zh": "多首技能轮替。",
+      "habitat_ecology_zh": "极寒风穴。",
+      "food_web_zh": "神话掠食。",
+      "trophic_role_zh": "神怪",
+      "artistic_portrait_note_zh": "九颈扇开如屏。",
+      "related_zh": [
+        "九婴"
+      ],
+      "sources_note_zh": "《大荒北經》系大意。"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "creatures": [
+    {
+      "kind_zh": "草木",
+      "id": "rongyu",
+      "name_zh": "荣草",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次七經",
+      "mountain_zh": "鼓镫之山",
+      "literature_appearance_zh": "食之已风（大意）。",
+      "traits_effects_zh": "风邪抗性。",
+      "habitat_ecology_zh": "中山溪谷。",
+      "food_web_zh": "被鹿啃食。",
+      "trophic_role_zh": "初级生产者",
+      "artistic_portrait_note_zh": "细叶软茎。",
+      "related_zh": [
+        "鼓镫之山"
+      ],
+      "sources_note_zh": "大意。"
+    },
+    {
+      "kind_zh": "草木",
+      "id": "xiao",
+      "name_zh": "萧（香蒿类）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山诸列",
+      "mountain_zh": "祭祀沿线",
+      "literature_appearance_zh": "糈与萧茅类祭品植物。",
+      "traits_effects_zh": "仪式资源。",
+      "habitat_ecology_zh": "台地农田边缘。",
+      "food_web_zh": "人采；昆虫寄主。",
+      "trophic_role_zh": "初级生产者",
+      "artistic_portrait_note_zh": "灰绿羽状叶。",
+      "related_zh": [
+        "中山祠"
+      ],
+      "sources_note_zh": "归纳。"
+    }
+  ]
+}

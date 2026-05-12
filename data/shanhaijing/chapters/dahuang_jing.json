@@ -1,0 +1,119 @@
+{
+  "creatures": [
+    {
+      "kind_zh": "凶兽",
+      "id": "jiuying",
+      "name_zh": "九婴",
+      "corpus_zh": "大荒經",
+      "jing_zh": "大荒北經",
+      "section_zh": "大荒北經",
+      "mountain_zh": "凶水之间",
+      "literature_appearance_zh": "九首蛇怪，能喷水吐火。",
+      "traits_effects_zh": "水火双相 BOSS；羿所杀（英雄叙事）。",
+      "habitat_ecology_zh": "凶水多雾；火与水交错带。",
+      "food_web_zh": "掠食大型兽与人；喷火驱离竞争者。",
+      "trophic_role_zh": "顶级消费者",
+      "artistic_portrait_note_zh": "九颈喷水火双色，鳞片蒸腾白雾。",
+      "related_zh": [
+        "大羿"
+      ],
+      "sources_note_zh": "据《大荒北經》九婴条大意。"
+    },
+    {
+      "kind_zh": "神祇",
+      "id": "kuafu",
+      "name_zh": "夸父",
+      "corpus_zh": "大荒經",
+      "jing_zh": "大荒北經",
+      "section_zh": "大荒北經",
+      "mountain_zh": "夸父国/追日道",
+      "literature_appearance_zh": "耳挂两黄蛇，手把两黄蛇，逐日道渴而死。",
+      "traits_effects_zh": "长跑/巨人体型机制；渴死为资源耗尽惩罚隐喻。",
+      "habitat_ecology_zh": "河渭大平原与桃林干旱带。",
+      "food_web_zh": "巨人族杂食高消耗；对水体依赖极高。",
+      "trophic_role_zh": "文化英雄 / 高消耗消费者",
+      "artistic_portrait_note_zh": "巨影跨山，手耳黄蛇如缰；干河裂土。",
+      "related_zh": [
+        "应龙"
+      ],
+      "sources_note_zh": "据《大荒北經》夸父条大意。"
+    },
+    {
+      "kind_zh": "神祇",
+      "id": "yinglong",
+      "name_zh": "应龙",
+      "corpus_zh": "大荒經",
+      "jing_zh": "大荒东经",
+      "section_zh": "大荒东经",
+      "mountain_zh": "凶犁土丘",
+      "literature_appearance_zh": "龙身而有翼，杀蚩尤与夸父，不得复上，故下数旱（大意）。",
+      "traits_effects_zh": "旱/雨双相神力；可做天气轴 BOSS 或盟友。",
+      "habitat_ecology_zh": "下界水畔与战场遗迹；行云布雨与致旱并存的矛盾神职。",
+      "food_web_zh": "神格：以云雨精气或敌酋之灵为“食”。",
+      "trophic_role_zh": "龙神位阶",
+      "artistic_portrait_note_zh": "有翼龙躯盘雷云，鳞甲反光如雨线。",
+      "related_zh": [
+        "夸父",
+        "蚩尤"
+      ],
+      "sources_note_zh": "据《大荒东经》应龙条大意。"
+    },
+    {
+      "kind_zh": "神祇",
+      "id": "kui_beast",
+      "name_zh": "夔",
+      "corpus_zh": "大荒經",
+      "jing_zh": "大荒东经",
+      "section_zh": "大荒东经",
+      "mountain_zh": "东海流波山",
+      "literature_appearance_zh": "状如牛，苍身而无角，一足，出入水则必风雨，其光如日月，其声如雷。",
+      "traits_effects_zh": "雷鼓母题：取其皮为鼓声闻五百里（音波类技能）。",
+      "habitat_ecology_zh": "海岛与风暴带；潮间带与雷云耦合。",
+      "food_web_zh": "神话：以风雨为食或驱动风暴摄取能量。",
+      "trophic_role_zh": "风暴灵体",
+      "artistic_portrait_note_zh": "一足牛形踏浪，角缺处雷纹；日月同辉于背甲。",
+      "related_zh": [
+        "黄帝战蚩尤"
+      ],
+      "sources_note_zh": "据《大荒东经》夔牛条大意。"
+    },
+    {
+      "kind_zh": "神祇",
+      "id": "xihe",
+      "name_zh": "羲和",
+      "corpus_zh": "大荒經",
+      "jing_zh": "大荒南經",
+      "section_zh": "大荒南經",
+      "mountain_zh": "东南海之外",
+      "literature_appearance_zh": "生十日，浴日于甘渊。",
+      "traits_effects_zh": "时间/日照机制叙事核。",
+      "habitat_ecology_zh": "甘渊湿地。",
+      "food_web_zh": "神话。",
+      "trophic_role_zh": "神祇",
+      "artistic_portrait_note_zh": "浴日金光喷涌。",
+      "related_zh": [
+        "太阳神话"
+      ],
+      "sources_note_zh": "人物神，资料层供剧情。"
+    },
+    {
+      "kind_zh": "神祇",
+      "id": "changxi",
+      "name_zh": "常羲",
+      "corpus_zh": "大荒經",
+      "jing_zh": "大荒西經",
+      "section_zh": "大荒西經",
+      "mountain_zh": "月亮神话",
+      "literature_appearance_zh": "生十二月，浴月。",
+      "traits_effects_zh": "月相关卡轴。",
+      "habitat_ecology_zh": "西极寒池。",
+      "food_web_zh": "神话。",
+      "trophic_role_zh": "神祇",
+      "artistic_portrait_note_zh": "月轮如十二缺片。",
+      "related_zh": [
+        "月亮神话"
+      ],
+      "sources_note_zh": "人物神。"
+    }
+  ]
+}
