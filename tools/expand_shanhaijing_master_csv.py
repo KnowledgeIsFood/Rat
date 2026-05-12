@@ -4,6 +4,8 @@ One-shot / repeatable expander:
 - Ensures creatures_master.csv has kind_zh on every row (inferred for legacy ids).
 - Appends many additional 奇禽/异兽/鳞介 rows and 草木 rows (still one master CSV).
 
+游戏主线经本为 **五藏山经**五篇；`haijing` / `dahuang_jing` 相关追加行属扩展占位时可删。
+
 Re-run: python3 tools/expand_shanhaijing_master_csv.py
 Then: python3 tools/emit_shanhaijing_chapters.py && python3 tools/render_shanhaijing_docs.py
 """
