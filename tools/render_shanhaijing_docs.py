@@ -13,6 +13,11 @@ OUT_BY_ID = ROOT / "docs" / "shanhaijing" / "creatures" / "by_id"
 OUT_CATALOG = ROOT / "docs" / "shanhaijing" / "CATALOG.md"
 GODOT_DATA = ROOT / "game" / "data" / "creatures_catalog.json"
 
+# 游戏主线：五藏山经五篇（与 jing_zh 字段一致）
+THEME_PRIMARY_JING_ZH: frozenset[str] = frozenset(
+    {"南山經", "西山經", "北山經", "东山經", "中山經"}
+)
+
 REQUIRED_KEYS = (
     "id",
     "kind_zh",
@@ -128,6 +133,7 @@ def write_outputs(creatures: list[dict]) -> None:
 
     lines: list[str] = []
     lines.append("# 山海经条目目录（自动生成）\n")
+    lines.append("\n**游戏主线范围**为 **五藏山经**：《南山经》《西山经》《北山经》《东山经》《中山经》。见 `docs/shanhaijing/游戏主题-五藏山经.md`。\n")
     lines.append("\n按 **类目（`kind_zh`）** 与 **篇名（`jing_zh`）** 分组；条目文件位于 `creatures/by_id/`。\n")
 
     by_kind: dict[str, list[dict]] = defaultdict(list)
@@ -153,12 +159,23 @@ def write_outputs(creatures: list[dict]) -> None:
     for c in creatures:
         kind_counts[c["kind_zh"]] += 1
 
+    in_theme = sum(1 for c in creatures if c.get("jing_zh") in THEME_PRIMARY_JING_ZH)
+    out_theme = len(creatures) - in_theme
+    theme_scope = {
+        "title_zh": "五藏山经（游戏主线）",
+        "jing_zh": sorted(THEME_PRIMARY_JING_ZH),
+        "entry_count_in_theme": in_theme,
+        "entry_count_outside_theme": out_theme,
+        "entry_count_total": len(creatures),
+    }
+
     GODOT_DATA.parent.mkdir(parents=True, exist_ok=True)
     entries = [{k: v for k, v in c.items() if not k.startswith("_")} for c in creatures]
     payload = {
         "schema": "rat.shanhaijing.catalog.v2",
         "generated_note": "merged from data/shanhaijing/chapters/*.json",
         "entry_count": len(creatures),
+        "theme_scope": theme_scope,
         "kind_counts": dict(sorted(kind_counts.items(), key=lambda kv: (-kv[1], kv[0]))),
         "entries": entries,
         "creatures": entries,

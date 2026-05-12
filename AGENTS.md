@@ -4,7 +4,9 @@
 
 ### 产品
 
-《山海经》题材 **成长 · 异变 · 肉鸽** 游戏（代号 Rat）。当前以 **Godot 4.6** 工程 `game/` 为主，博物数据以 **`data/shanhaijing/creatures_master.csv`** 为主表（列 **`kind_zh`**：奇禽/异兽/鳞介/草木等）；`tools/emit_shanhaijing_chapters.py` 读取 CSV 写出 `data/shanhaijing/chapters/*.json`（含 `plants_*` 草木分组），`tools/render_shanhaijing_docs.py` 再合并为 `game/data/creatures_catalog.json`（`schema` v2，含 `kind_counts` 与 `entries`）并生成 `docs/shanhaijing/CATALOG.md` 与 `creatures/by_id/*.md`。
+《山海经》题材 **成长 · 异变 · 肉鸽** 游戏（代号 Rat）。**主线经本**为 **五藏山经**五篇：《南山经》《西山经》《北山经》《东山经》《中山经》（见 `docs/shanhaijing/游戏主题-五藏山经.md`）。`海经` / `大荒经` 等条目若存在，视为扩展资料，不纳入主题主轴。
+
+当前以 **Godot 4.6** 工程 `game/` 为主，博物数据以 **`data/shanhaijing/creatures_master.csv`** 为主表（列 **`kind_zh`**：奇禽/异兽/鳞介/草木等）；`tools/emit_shanhaijing_chapters.py` 读取 CSV 写出 `data/shanhaijing/chapters/*.json`（含 `plants_*` 草木分组），`tools/render_shanhaijing_docs.py` 再合并为 `game/data/creatures_catalog.json`（`schema` v2，含 `kind_counts`、`theme_scope` 与 `entries`）并生成 `docs/shanhaijing/CATALOG.md` 与 `creatures/by_id/*.md`。
 
 ### Godot
 

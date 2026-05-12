@@ -32,12 +32,12 @@ theme_override_constants/separation = 12
 
 [node name="Title" type="Label" parent="UILayer/RootControl/VBox"]
 layout_mode = 2
-text = "Rat — 山海经题材原型"
+text = "Rat — 五藏山经（南·西·北·东·中）"
 horizontal_alignment = 1
 
 [node name="Hint" type="Label" parent="UILayer/RootControl/VBox"]
 layout_mode = 2
-text = "异兽数据：仓库 data/shanhaijing/（构建时复制到 res://data/）"
+text = "主线：《南山经》《西山经》《北山经》《东山经》《中山经》— 数据 res://data/"
 autowrap_mode = 3
 horizontal_alignment = 1
 

@@ -2,6 +2,19 @@
   "schema": "rat.shanhaijing.catalog.v2",
   "generated_note": "merged from data/shanhaijing/chapters/*.json",
   "entry_count": 225,
+  "theme_scope": {
+    "title_zh": "五藏山经（游戏主线）",
+    "jing_zh": [
+      "东山經",
+      "中山經",
+      "北山經",
+      "南山經",
+      "西山經"
+    ],
+    "entry_count_in_theme": 208,
+    "entry_count_outside_theme": 17,
+    "entry_count_total": 225
+  },
   "kind_counts": {
     "草木": 95,
     "异兽": 61,

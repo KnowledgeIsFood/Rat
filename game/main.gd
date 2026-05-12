@@ -16,6 +16,11 @@ func _ready() -> void:
 		return
 	var entries: Array = parsed.get("entries", parsed.get("creatures", []))
 	var kc: Variant = parsed.get("kind_counts", {})
+	var ts: Variant = parsed.get("theme_scope", {})
+	var theme_line := ""
+	if typeof(ts) == TYPE_DICTIONARY and (ts as Dictionary).has("entry_count_in_theme"):
+		var d: Dictionary = ts as Dictionary
+		theme_line = "五经内：%s / 全表：%s" % [str(d.get("entry_count_in_theme", "?")), str(d.get("entry_count_total", "?"))]
 	var kind_line := ""
 	if typeof(kc) == TYPE_DICTIONARY:
 		var bits: Array = []
@@ -26,8 +31,8 @@ func _ready() -> void:
 			if i > 0:
 				kind_line += "；"
 			kind_line += str(bits[i])
-	count_label.text = "载入条目：%d。类目计数：%s\n（%s）" % [
-		entries.size(),
+	count_label.text = "载入条目：%s\n类目：%s\n%s" % [
+		str(entries.size()),
 		kind_line if kind_line != "" else "—",
-		str(parsed.get("generated_note", "")),
+		theme_line if theme_line != "" else "",
 	]

@@ -13,20 +13,21 @@ CSV_PATH = ROOT / "data" / "shanhaijing" / "creatures_master.csv"
 OUT_DIR = ROOT / "data" / "shanhaijing" / "chapters"
 
 # Output JSON basenames (without .json) that this pipeline knows about.
+# 默认输出顺序：五藏山经（动物）→ 五篇草木分组 → 海经/大荒（扩展，非主线主题）
 DEFAULT_CHAPTER_GROUPS = [
     "nanshan_jing",
     "xishan_jing",
     "beishan_jing",
     "dongshan_jing",
     "zhongshan_jing",
-    "haijing",
-    "dahuang_jing",
     "plants_nanshan_jing",
     "plants_xishan_jing",
     "plants_beishan_jing",
     "plants_dongshan_jing",
     "plants_zhongshan_jing",
     "plants_wucang_misc",
+    "haijing",
+    "dahuang_jing",
 ]
 
 REQUIRED_COLUMNS = [
