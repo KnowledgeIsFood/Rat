@@ -2,7 +2,7 @@
 
 ## Cursor Cloud specific instructions
 
-This repository ("Rat") is currently an empty scaffold with only a `README.md`. There are no applications, services, dependencies, build tools, tests, or linting configured.
+This repository ("Rat") is currently an empty scaffold. **Product intent:** 《山海经》世界观下的成长、异变、肉鸽类游戏（详见 `README.md`）。There are no applications, services, dependencies, build tools, tests, or linting configured yet.
 
 ### Current state
 - No source code or application logic exists yet.
