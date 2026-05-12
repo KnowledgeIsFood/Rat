@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges">
+  <rect width="64" height="64" fill="none"/>
+  <g transform="scale(2)">
+    <!-- palette -->
+    <!-- outline: #1e1e1e, shadow: #8d9399, mid: #c7ced4, light: #eef3f6 -->
+
+    <!-- tail: slimmer, doc keeps long-tail hint without stealing focus -->
+    <rect x="4" y="19" width="1" height="1" fill="#1e1e1e"/>
+    <rect x="3" y="20" width="3" height="1" fill="#8d9399"/>
+    <rect x="4" y="21" width="3" height="1" fill="#c7ced4"/>
+    <rect x="6" y="22" width="2" height="1" fill="#8d9399"/>
+    <rect x="7" y="23" width="2" height="1" fill="#c7ced4"/>
+
+    <!-- crouched back: heavier hunch, white-lit shoulder -->
+    <rect x="7" y="14" width="1" height="10" fill="#1e1e1e"/>
+    <rect x="8" y="12" width="2" height="13" fill="#8d9399"/>
+    <rect x="10" y="11" width="8" height="13" fill="#c7ced4"/>
+    <rect x="11" y="11" width="7" height="2" fill="#eef3f6"/>
+    <rect x="10" y="13" width="6" height="8" fill="#eef3f6"/>
+    <rect x="13" y="16" width="5" height="6" fill="#b1bac2"/>
+    <rect x="17" y="21" width="2" height="2" fill="#8d9399"/>
+    <rect x="9" y="24" width="2" height="1" fill="#1e1e1e"/>
+
+    <!-- compact neck and forward head -->
+    <rect x="17" y="12" width="2" height="2" fill="#8d9399"/>
+    <rect x="18" y="6" width="7" height="1" fill="#1e1e1e"/>
+    <rect x="17" y="7" width="9" height="7" fill="#c7ced4"/>
+    <rect x="18" y="8" width="7" height="5" fill="#eef3f6"/>
+    <rect x="17" y="9" width="1" height="4" fill="#8d9399"/>
+    <rect x="25" y="8" width="1" height="6" fill="#1e1e1e"/>
+    <rect x="19" y="6" width="2" height="1" fill="#eef3f6"/>
+    <rect x="23" y="6" width="2" height="1" fill="#eef3f6"/>
+    <!-- reference-like face mask -->
+    <rect x="20" y="9" width="5" height="1" fill="#8d9399"/>
+    <rect x="20" y="10" width="1" height="1" fill="#1e1e1e"/>
+    <rect x="23" y="10" width="1" height="1" fill="#1e1e1e"/>
+    <rect x="22" y="11" width="3" height="1" fill="#8d9399"/>
+    <rect x="24" y="12" width="1" height="1" fill="#1e1e1e"/>
+
+    <!-- front arm: longer, knuckle-walking silhouette -->
+    <rect x="21" y="14" width="1" height="9" fill="#1e1e1e"/>
+    <rect x="22" y="14" width="2" height="10" fill="#b1bac2"/>
+    <rect x="23" y="15" width="1" height="8" fill="#eef3f6"/>
+    <rect x="24" y="23" width="3" height="2" fill="#8d9399"/>
+    <rect x="24" y="25" width="4" height="1" fill="#1e1e1e"/>
+    <rect x="26" y="24" width="1" height="1" fill="#c7ced4"/>
+
+    <!-- rear arm: bent under chest -->
+    <rect x="11" y="15" width="1" height="7" fill="#1e1e1e"/>
+    <rect x="12" y="15" width="2" height="7" fill="#b1bac2"/>
+    <rect x="13" y="16" width="1" height="5" fill="#eef3f6"/>
+    <rect x="10" y="22" width="3" height="2" fill="#8d9399"/>
+    <rect x="10" y="24" width="3" height="1" fill="#1e1e1e"/>
+
+    <!-- crouched legs: shorter and more ape-like -->
+    <rect x="9" y="23" width="1" height="6" fill="#1e1e1e"/>
+    <rect x="10" y="23" width="3" height="5" fill="#c7ced4"/>
+    <rect x="11" y="24" width="2" height="3" fill="#eef3f6"/>
+    <rect x="11" y="28" width="4" height="1" fill="#8d9399"/>
+    <rect x="11" y="29" width="4" height="1" fill="#1e1e1e"/>
+
+    <rect x="15" y="23" width="1" height="6" fill="#1e1e1e"/>
+    <rect x="16" y="23" width="3" height="5" fill="#c7ced4"/>
+    <rect x="17" y="24" width="1" height="3" fill="#eef3f6"/>
+    <rect x="18" y="28" width="4" height="1" fill="#8d9399"/>
+    <rect x="18" y="29" width="4" height="1" fill="#1e1e1e"/>
+
+    <!-- branch / perch, lowered so body reads first -->
+    <rect x="7" y="27" width="22" height="2" fill="#6d5843"/>
+    <rect x="9" y="26" width="4" height="1" fill="#8b715a"/>
+    <rect x="19" y="26" width="2" height="1" fill="#8b715a"/>
+
+    <!-- water-jade crystal: small accent only -->
+    <rect x="28" y="25" width="1" height="1" fill="#a9dcef"/>
+    <rect x="27" y="26" width="2" height="1" fill="#76b8d2"/>
+    <rect x="29" y="26" width="1" height="1" fill="#4f8ea6"/>
+  </g>
+</svg>
