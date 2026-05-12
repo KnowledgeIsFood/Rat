@@ -32,6 +32,7 @@ python3 tools/render_shanhaijing_docs.py
 - 人类可读总目录：`docs/shanhaijing/CATALOG.md`
 - **游戏主题（五藏山经）**：[游戏主题-五藏山经.md](docs/shanhaijing/游戏主题-五藏山经.md)
 - 表格列说明：`docs/shanhaijing/表格维护说明.md`
+- 视觉风格规范：`docs/art/视觉风格规范.md`
 
 ## 许可与来源
 
