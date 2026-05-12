@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="720" viewBox="0 0 2560 720">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f3f1ea"/>
+      <stop offset="100%" stop-color="#d9d4ca"/>
+    </linearGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c9c3b8" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#c9c3b8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="2560" height="720" fill="url(#sky)"/>
+  <path d="M0 470 C180 410, 360 410, 520 460 C690 510, 900 500, 1120 440 C1280 395, 1510 395, 1710 450 C1930 512, 2190 522, 2560 442 L2560 720 L0 720 Z" fill="#7d7870" fill-opacity="0.40"/>
+  <path d="M0 500 C210 440, 430 435, 650 495 C890 560, 1170 560, 1430 492 C1690 423, 1970 425, 2220 490 C2360 525, 2460 542, 2560 525 L2560 720 L0 720 Z" fill="#5e5a54" fill-opacity="0.32"/>
+  <ellipse cx="520" cy="455" rx="470" ry="70" fill="url(#mist)"/>
+  <ellipse cx="1650" cy="468" rx="560" ry="86" fill="url(#mist)"/>
+  <path d="M190 585 C640 535, 1040 620, 1440 575 C1810 535, 2230 600, 2560 565 L2560 720 L0 720 L0 590 Z" fill="#3e3a35" fill-opacity="0.24"/>
+</svg>

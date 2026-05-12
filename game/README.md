@@ -2,6 +2,9 @@
 
 - **引擎版本**：Godot 4.6（`project.godot` 中 `config/features` 含 `4.6`）
 - **主场景**：`main.tscn` → `main.gd` 读取 `res://data/creatures_catalog.json`，显示全表条数、类目计数及 **`theme_scope`（五藏山经内条目数）**。
+- **当前美术占位**：
+  - 背景：`game/assets/backgrounds/wilderness_ink_wide.svg`（横版旷野水墨）
+  - 异兽：`game/assets/sprites/creatures/baiyuan_16x16.svg`（白猿，16×16）
 
 ## 数据管线
 
