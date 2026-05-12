@@ -1,0 +1,79 @@
+{
+  "creatures": [
+    {
+      "id": "liuju",
+      "name_zh": "从从",
+      "aliases_zh": [
+        "六足犬形兽"
+      ],
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次一經",
+      "mountain_zh": "栒状之山",
+      "literature_appearance_zh": "其状如犬，六足。",
+      "traits_effects_zh": "见则其国多狡客（狡诈人物事件）。",
+      "habitat_ecology_zh": "多水无草木；滨海滩涂与风蚀岩柱。",
+      "food_web_zh": "食腐与小型甲壳；六足利于滩涂快速移动。",
+      "trophic_role_zh": "杂食中级消费者",
+      "artistic_portrait_note_zh": "犬形六足沙滩跑痕交错；远天狡月。",
+      "related_zh": [
+        "条菅之水"
+      ],
+      "sources_note_zh": "据《东山經》栒状之山条大意。"
+    },
+    {
+      "id": "dangkang",
+      "name_zh": "当康",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次四經",
+      "mountain_zh": "钦山",
+      "literature_appearance_zh": "其状如豚而有牙。",
+      "traits_effects_zh": "见则天下穰（丰收征兆）。",
+      "habitat_ecology_zh": "多玉无石，师水出焉；农耕河谷想象。",
+      "food_web_zh": "掘根块茎类；粪便肥田促进微生物—作物链。",
+      "trophic_role_zh": "初级消费者 / 农耕祥瑞",
+      "artistic_portrait_note_zh": "短豚獠牙，踏过金黄穗浪；牙上挂露。",
+      "related_zh": [
+        "丰收"
+      ],
+      "sources_note_zh": "据《东次四經》钦山条大意。"
+    },
+    {
+      "id": "ziyu_fish",
+      "name_zh": "茈鱼",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次一經",
+      "mountain_zh": "东次一經水系（妑水一带，各本略异）",
+      "literature_appearance_zh": "状如鲋而赤鳞，其音如叱。",
+      "traits_effects_zh": "食之不骄（情绪类），可做镇静类药剂。",
+      "habitat_ecology_zh": "多青雘、多赤鱬类近水域；暖水浅沼。",
+      "food_web_zh": "杂食小鱼：藻类、无脊椎动物；鹭、蛇、大型鱼捕食。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "鲫形赤鳞，叱声化为水纹冲击波；与南山赤鱬可做跨域变体。",
+      "related_zh": [
+        "赤鱬（南山）"
+      ],
+      "sources_note_zh": "据《东山經》东次一經青丘之山条大意。"
+    },
+    {
+      "id": "jiaojiao_fish",
+      "name_zh": "鳛鳛之鱼",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "东山經",
+      "section_zh": "东次一經",
+      "mountain_zh": "涿光之山（嚣水）",
+      "literature_appearance_zh": "状如鹊而十翼，鳞羽在羽端，其音如鹊。",
+      "traits_effects_zh": "怪鱼群游可做光污染/声诱陷阱。",
+      "habitat_ecology_zh": "嚣水西流注河；多鳛鳛之鱼，藻华与砾石浅滩。",
+      "food_web_zh": "滤食/杂食：浮游生物；大型肉食鱼与鸟捕食。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "鹊形十翼夸张对称，鳞在羽端如金属片反光。",
+      "related_zh": [
+        "嚣水"
+      ],
+      "sources_note_zh": "据《东山經》涿光之山条大意。"
+    }
+  ]
+}

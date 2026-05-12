@@ -1,0 +1,157 @@
+{
+  "creatures": [
+    {
+      "id": "jingwei",
+      "name_zh": "精卫",
+      "aliases_zh": [
+        "发鸠之精卫鸟"
+      ],
+      "corpus_zh": "五藏山經",
+      "jing_zh": "北山經",
+      "section_zh": "北次三經",
+      "mountain_zh": "发鸠之山",
+      "literature_appearance_zh": "状如乌，文首、白喙、赤足。",
+      "traits_effects_zh": "常衔西山木石以堙东海（填海母题，可做持久世界改写机制）。",
+      "habitat_ecology_zh": "多柘木；近东海海岸沙丘与岩礁。",
+      "food_web_zh": "小型杂食鸟；叙事上弱化捕食，强调衔运行为对海岸沉积影响（神话级）。",
+      "trophic_role_zh": "叙事型消费者 / 工程师鸟",
+      "artistic_portrait_note_zh": "乌身赤足白喙，喙中横木石；浪线与沙洲几何层叠。",
+      "related_zh": [
+        "东海"
+      ],
+      "sources_note_zh": "据《北山經》发鸠之山条大意。"
+    },
+    {
+      "id": "renyu_beifang",
+      "name_zh": "人鱼（陵鱼/鱼妇类属）",
+      "aliases_zh": [
+        "鲛人系谱旁支"
+      ],
+      "corpus_zh": "五藏山經",
+      "jing_zh": "北山經",
+      "section_zh": "北山經",
+      "mountain_zh": "龙侯之山（决决之水）",
+      "literature_appearance_zh": "人鱼四足其音如婴儿（系谱各本有异，取通行大意）。",
+      "traits_effects_zh": "食之已痴疾（精神类异常），可做风险药剂。",
+      "habitat_ecology_zh": "决决之水东流注河；河川沙洲与芦苇迷宫。",
+      "food_web_zh": "杂食：螺贝、水草、小型鱼；人类捕捞压力。",
+      "trophic_role_zh": "次级消费者",
+      "artistic_portrait_note_zh": "幼童啼声水雾，鱼尾四足匍匐浅滩；足印混婴儿与兽。",
+      "related_zh": [
+        "河伯叙事群"
+      ],
+      "sources_note_zh": "《北山經》人鱼条各本字句不一，此取袁珂校注系大意。"
+    },
+    {
+      "id": "baoxiao",
+      "name_zh": "狍鸮",
+      "aliases_zh": [
+        "饕餮原型之一"
+      ],
+      "corpus_zh": "五藏山經",
+      "jing_zh": "北山經",
+      "section_zh": "北次二經",
+      "mountain_zh": "钩吾之山",
+      "literature_appearance_zh": "其状如羊身人面，其目在腋下，虎齿人爪，其音如婴儿。",
+      "traits_effects_zh": "是食人；贪欲与吞噬机制首选美术母题。",
+      "habitat_ecology_zh": "多玉多铜的裂谷；矿尘与血腥叙事对比。",
+      "food_web_zh": "顶级掠食：人类、兽群；自我吞噬隐喻可做异变技能。",
+      "trophic_role_zh": "顶级消费者",
+      "artistic_portrait_note_zh": "羊身人面的错位感，目藏腋下；婴儿啼与虎齿并置。",
+      "related_zh": [
+        "饕餮"
+      ],
+      "sources_note_zh": "据《北山經》钩吾之山条大意。"
+    },
+    {
+      "id": "heluo_yu",
+      "name_zh": "何罗之鱼",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "北山經",
+      "section_zh": "北次三經",
+      "mountain_zh": "谯明之山（谯水）",
+      "literature_appearance_zh": "一首十身，其音如犬吠。",
+      "traits_effects_zh": "食之已痈（痈疽类），可做高风险治疗素材。",
+      "habitat_ecology_zh": "谯水西流注河；急流深潭与砾石河床。",
+      "food_web_zh": "肉食或杂食底栖；十身或示群聚幻影（游戏机制化）。",
+      "trophic_role_zh": "中级消费者",
+      "artistic_portrait_note_zh": "一首十身扇形展开，犬吠声浪震动卵石。",
+      "related_zh": [
+        "谯水"
+      ],
+      "sources_note_zh": "据《北山經》谯明之山条。"
+    },
+    {
+      "id": "ershu",
+      "name_zh": "耳鼠",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "北山經",
+      "section_zh": "北次三經",
+      "mountain_zh": "丹熏之山",
+      "literature_appearance_zh": "状如鼠，而菟首麋身，其音如嗥犬，以其尾飞。",
+      "traits_effects_zh": "食之不䐆，又可以御百毒（抗毒/缓饿类肉鸽祝福）。",
+      "habitat_ecology_zh": "多臭椿、多红白垩；干燥坡地与灌丛。",
+      "food_web_zh": "杂食：种子、昆虫、菌类；猛禽、鼬科捕食。",
+      "trophic_role_zh": "初级—次级消费者",
+      "artistic_portrait_note_zh": "鼠体麋身，兔耳般首，尾展如小型滑翔翼。",
+      "related_zh": [
+        "丹熏之山"
+      ],
+      "sources_note_zh": "据《北山經》丹熏之山条大意。"
+    },
+    {
+      "id": "mengji",
+      "name_zh": "孟极",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "北山經",
+      "section_zh": "北次三經",
+      "mountain_zh": "石者之山",
+      "literature_appearance_zh": "状如豹，文题（额有花纹）白身，善伏。",
+      "traits_effects_zh": "潜伏型伏击怪；可做雪地/岩区精英。",
+      "habitat_ecology_zh": "石者之山多瑶碧；裸岩与雪线交错带。",
+      "food_web_zh": "肉食：羊、鹿幼体、雉类；与狼、猞猁竞争。",
+      "trophic_role_zh": "三级消费者",
+      "artistic_portrait_note_zh": "白身豹纹，额题如符；岩影与雪雾分层。",
+      "related_zh": [
+        "石者之山"
+      ],
+      "sources_note_zh": "据《北山經》石者之山条大意。"
+    },
+    {
+      "id": "zhuhuai",
+      "name_zh": "诸怀",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "北山經",
+      "section_zh": "北次三經",
+      "mountain_zh": "北岳之山",
+      "literature_appearance_zh": "状如牛而四角、人目、彘耳，其音如雁。",
+      "traits_effects_zh": "是食人；四角冲撞与声诱结合。",
+      "habitat_ecology_zh": "北岳多枳棘刚木；寒温交错山地。",
+      "food_web_zh": "顶级掠食：大型草食兽与人；四角种内斗争。",
+      "trophic_role_zh": "顶级消费者",
+      "artistic_portrait_note_zh": "牛躯四角如冠，人目彘耳；雁鸣混风声。",
+      "related_zh": [
+        "北岳之山"
+      ],
+      "sources_note_zh": "据《北山經》北岳之山条大意。"
+    },
+    {
+      "id": "zuzi",
+      "name_zh": "足訾",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "北山經",
+      "section_zh": "北次三經",
+      "mountain_zh": "蔓联之山",
+      "literature_appearance_zh": "状如牛而马尾，见则国疫（通行整理本大意）。",
+      "traits_effects_zh": "瘟疫/瘴气 hazard 触发器；与治愈系异兽对位设计。",
+      "habitat_ecology_zh": "蔓联无草木；荒坡与病土意象。",
+      "food_web_zh": "草食但伴疫土：粪便或呼吸引发腐生菌异常增殖（神话推演）。",
+      "trophic_role_zh": "初级消费者 / 灾害载体",
+      "artistic_portrait_note_zh": "牛尾马鬃感，躯体病斑纹理；地面裂纹生灰苔。",
+      "related_zh": [
+        "疫土叙事"
+      ],
+      "sources_note_zh": "各本字句差异较大，此取袁珂系整理大意。"
+    }
+  ]
+}

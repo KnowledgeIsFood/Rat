@@ -1,0 +1,78 @@
+{
+  "creatures": [
+    {
+      "id": "qinglong_ma",
+      "name_zh": "马身龙首神（中山祠系）",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中山诸列祠例",
+      "mountain_zh": "（列山系总例）",
+      "literature_appearance_zh": "中山诸列祠礼中常见马身龙首之神形。",
+      "traits_effects_zh": "祭祀与区域 buff 叙事核心。",
+      "habitat_ecology_zh": "伊洛河川农业与台地交错；人格化山川神。",
+      "food_web_zh": "神格不进食俗物；供糈米、太牢之礼为能量叙事。",
+      "trophic_role_zh": "神祇位阶",
+      "artistic_portrait_note_zh": "马躯龙首，鬃如河曲；背负谷穗与玉璋。",
+      "related_zh": [
+        "少室",
+        "太室"
+      ],
+      "sources_note_zh": "据《中山經》诸篇祠神描述归纳，非单一山条。"
+    },
+    {
+      "id": "chenghuang_beast",
+      "name_zh": "乘黄",
+      "corpus_zh": "海經",
+      "jing_zh": "海外西經",
+      "section_zh": "海外西經",
+      "mountain_zh": "白民之国",
+      "literature_appearance_zh": "状如狐，背上有角。",
+      "traits_effects_zh": "乘之寿二千岁（长寿/时间系肉鸽稀有祝福）。",
+      "habitat_ecology_zh": "白民之国神话生态；弱写实。",
+      "food_web_zh": "虚构：食露气或灵草；与凡俗食物链解耦。",
+      "trophic_role_zh": "神话祥瑞",
+      "artistic_portrait_note_zh": "狐形乘黄，独角如黄玉；背脊流光示寿元。",
+      "related_zh": [
+        "白民"
+      ],
+      "sources_note_zh": "据《海外西經》白民之国条大意；与《中山》叙事群可交叉引用。"
+    },
+    {
+      "id": "fuzhu",
+      "name_zh": "夫诸",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次三經",
+      "mountain_zh": "敖岸之山",
+      "literature_appearance_zh": "状如白鹿而四角，见则其邑大水。",
+      "traits_effects_zh": "洪涝预警与长右、诸怀形成“水患链”。",
+      "habitat_ecology_zh": "敖岸多㻬琈之玉；河谷湿地与台地交错。",
+      "food_web_zh": "草食：湿生草本与灌木；角用于求偶打斗。",
+      "trophic_role_zh": "大型初级消费者",
+      "artistic_portrait_note_zh": "白鹿四角，踏水生涟漪扩散为洪水示意线。",
+      "related_zh": [
+        "长右"
+      ],
+      "sources_note_zh": "据《中山經》敖岸之山条大意。"
+    },
+    {
+      "id": "huashe",
+      "name_zh": "化蛇",
+      "corpus_zh": "五藏山經",
+      "jing_zh": "中山經",
+      "section_zh": "中次二經",
+      "mountain_zh": "阳水发源之山系",
+      "literature_appearance_zh": "人面豺身，鸟翼蛇行，其音如叱呼，见则大水。",
+      "traits_effects_zh": "声诱+洪水双 hazard；可做 BOSS 二阶段。",
+      "habitat_ecology_zh": "中山多雨裂谷；溪谷陡岸与崩塌堆积。",
+      "food_web_zh": "肉食：两栖爬行、小型哺乳；洪水后猎物迁移引发暴食期。",
+      "trophic_role_zh": "三级消费者",
+      "artistic_portrait_note_zh": "豺身人面，翼展如帆，蛇行轨迹在洪痕墙上。",
+      "related_zh": [
+        "夫诸",
+        "长右"
+      ],
+      "sources_note_zh": "据《中山經》化蛇条大意。"
+    }
+  ]
+}
