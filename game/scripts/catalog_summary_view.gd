@@ -19,7 +19,12 @@ func _format_kind_counts(kind_counts: Variant) -> String:
 	for k in (kind_counts as Dictionary).keys():
 		bits.append("%s:%s" % [str(k), str((kind_counts as Dictionary)[k])])
 	bits.sort()
-	return "；".join(bits)
+	var line := ""
+	for i in range(bits.size()):
+		if i > 0:
+			line += "；"
+		line += str(bits[i])
+	return line
 
 
 func _format_theme_scope(theme_scope: Variant) -> String:
