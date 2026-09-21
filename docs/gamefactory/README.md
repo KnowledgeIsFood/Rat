@@ -26,9 +26,9 @@ bash tools/bootstrap_gamefactory.sh --with-godot --install-framework
 bootstrap 会：
 
 1. 检出 `third_party/GameFactory-3A`（即框架文档里的 `<REPO_PATH>`）。
-2. 可选安装官方 Godot **4.6.0-stable** 到仓库本地 `.tools/`（不提交）。
+2. 可选安装官方 Godot **4.6-stable** 到仓库本地 `.tools/`（不提交）。官方发行标签是 `4.6-stable`，不是 `4.6.0-stable`。
 3. 导出 `A3GAME_GODOT_PROJECT` 指向 `game/`，`PYTHONPATH` 指向框架根目录。
-4. 可选通过公共 API `python3 -m engine_adapters.godot install-framework` 安装运行时插件。
+4. 通过公共 API `python3 -m engine_adapters.godot install-framework` 把 `A3GamePlayable` 装进 `game/addons/a3game_playable/`，并启用 autoload `A3GameRuntime`。本仓库已完成一次安装；更新时加 `--replace-existing`。
 
 不要对已有的 `game/` 执行 `create-project`。那会按空工程模板覆盖 Rat。
 
@@ -50,13 +50,13 @@ Rat 的固定选择：
 | 项 | 值 |
 |---|---|
 | 引擎标识 | `godot` |
-| Godot 版本 | `4.6.0` |
+| Godot 版本 | `4.6`（官方标签 `4.6-stable`） |
 | `game_id` | `gameR_wucang_shanjing_godot` |
 | 工程 | `game/` |
 | 公共客户端 | `GodotClient` |
 | 运行时插件 | `A3GamePlayable`（`res://addons/a3game_playable/`） |
 
-上游 Godot 安装器默认钉在 `4.5.1`；Rat 明确请求 `4.6.0`，与现有 `game/project.godot` 的 4.6 feature 对齐。框架文档里的 Godot 基线仍以 `godot_api.md` 为准，4.6 上的差异视为未验证行为，需在本机复核。
+上游 Godot 安装器默认钉在 `4.5.1`；Rat 明确请求 `4.6`，对应官方 `4.6-stable`，与现有 `game/project.godot` 的 4.6 feature 对齐。不要传 `4.6.0`：GitHub 没有该标签。框架文档里的 Godot 基线仍以 `godot_api.md` 为准，4.6 上的差异视为未验证行为，需在本机复核。
 
 ## 路径约定
 

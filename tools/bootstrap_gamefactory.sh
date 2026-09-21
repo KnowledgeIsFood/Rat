@@ -4,7 +4,7 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 GAMEFACTORY_ROOT="$ROOT/third_party/GameFactory-3A"
 GODOT_PROJECT="$ROOT/game"
-GODOT_VERSION="${A3GAME_GODOT_VERSION:-4.6.0}"
+GODOT_VERSION="${A3GAME_GODOT_VERSION:-4.6}"
 WITH_GODOT=0
 INSTALL_FRAMEWORK=0
 DRY_RUN=0
@@ -13,7 +13,7 @@ usage() {
   cat <<'EOF'
 Usage: bash tools/bootstrap_gamefactory.sh [--with-godot] [--install-framework] [--dry-run]
 
-  --with-godot         Install or reuse Godot 4.6.0 via 3AGameFactory's installer
+  --with-godot         Install or reuse Godot 4.6 via 3AGameFactory's installer
   --install-framework  Install A3GamePlayable into game/ through GodotClient
   --dry-run            Resolve / validate without writing Godot or plugin files
 EOF

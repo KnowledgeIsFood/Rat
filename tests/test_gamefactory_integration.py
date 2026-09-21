@@ -12,7 +12,7 @@ class GameFactoryIntegrationTest(unittest.TestCase):
         self.assertEqual("rat.gamefactory.task_packet.v1", packet["schema"])
         self.assertEqual("godot", packet["engine"])
         self.assertEqual("godot", packet["engine_identifier"])
-        self.assertEqual("4.6.0", packet["engine_version"])
+        self.assertEqual("4.6", packet["engine_version"])
         self.assertEqual("gameR_wucang_shanjing_godot", packet["game_id"])
         self.assertEqual("game", packet["godot_project"])
         self.assertEqual(
@@ -48,6 +48,17 @@ class GameFactoryIntegrationTest(unittest.TestCase):
         self.assertIn(str(gf.GODOT_PROJECT), script)
         self.assertIn("gameR_wucang_shanjing_godot", script)
         self.assertIn("A3GAME_GODOT_PROJECT", script)
+
+    def test_a3game_playable_is_installed_in_rat_project(self) -> None:
+        plugin_cfg = gf.GODOT_PROJECT / "addons" / "a3game_playable" / "plugin.cfg"
+        runtime = gf.GODOT_PROJECT / "addons" / "a3game_playable" / "runtime.gd"
+        project_text = (gf.GODOT_PROJECT / "project.godot").read_text(encoding="utf-8")
+
+        self.assertTrue(plugin_cfg.is_file())
+        self.assertTrue(runtime.is_file())
+        self.assertIn('name="A3GamePlayable"', plugin_cfg.read_text(encoding="utf-8"))
+        self.assertIn("res://addons/a3game_playable/plugin.cfg", project_text)
+        self.assertIn('A3GameRuntime="*res://addons/a3game_playable/runtime.gd"', project_text)
 
 
 if __name__ == "__main__":

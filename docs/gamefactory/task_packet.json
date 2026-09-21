@@ -10,7 +10,7 @@
     "game_design_skill": "third_party/GameFactory-3A/agent_skills/game_design/SKILL.md"
   },
   "engine": "godot",
-  "engine_version": "4.6.0",
+  "engine_version": "4.6",
   "engine_identifier": "godot",
   "game_id": "gameR_wucang_shanjing_godot",
   "project_name": "Rat",

@@ -22,7 +22,7 @@ GODOT_API = (
 GODOT_INSTALLER = (
     GAMEFACTORY_ROOT / "scripts" / "engine_install" / "godot" / "install.sh"
 )
-DEFAULT_GODOT_VERSION = "4.6.0"
+DEFAULT_GODOT_VERSION = "4.6"
 DEFAULT_GODOT_EXECUTABLE = WORKSPACE_ROOT / ".tools" / "bin" / "godot4"
 REQUIRED_FRAMEWORK_FILES = (
     SETTING_OVERVIEW,
