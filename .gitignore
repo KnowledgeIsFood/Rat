@@ -13,3 +13,8 @@ __pycache__/
 Thumbs.db
 *.swp
 *.tmp
+
+# 3AGameFactory local engine install and managed state
+.tools/
+.cache/
+game/.a3game/

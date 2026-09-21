@@ -1,0 +1,26 @@
+# GameR: 五藏山经 · Rat — Godot 4 成长 / 异变 / 肉鸽
+
+- **game_id**: gameR_wucang_shanjing_godot
+- **引擎**: Godot 4.6（3AGameFactory 标识符 `godot`）
+- **类型**: 成长 · 异变 · 肉鸽；横版自由探索
+- **主线经本**: 《南山经》《西山经》《北山经》《东山经》《中山经》
+- **工程目录**: 仓库 `game/`（已有 `project.godot`，禁止对它执行 `create-project`）
+- **权威入口**: 先读 `third_party/GameFactory-3A/agent_skills/setting_overview.md`，再读本文件与 `docs/gamefactory/task_packet.json`
+
+## 当前已有切片
+
+可运行的 Godot 工程会读取 `res://data/creatures_catalog.json`，展示条目总数、`kind_counts` 与五藏山经主题范围。白猿与旷野水墨背景是美术占位，不是最终资产。
+
+## 目标玩家闭环（后续白盒）
+
+Launch → 浏览博物条目 → 进入一处山经场景 → 移动 / 观察异兽 → 采集或异变一次 → 结算并回到目录。
+
+白盒阶段用简单几何与稳定 asset ID；生产资产走 3AGameFactory `asset_qa` Skill，验收后再替换占位。
+
+## 约束
+
+- 只使用 Godot 4 公共 API 与 `GodotClient`。
+- 生成产物路径必须经 `pipeline/common/paths.py`。
+- 经文主题与表格工作流仍以 `docs/shanhaijing/` 与 `data/shanhaijing/creatures_master.csv` 为准。
+- 视觉风格以 `docs/art/视觉风格规范.md` 为准：前景像素、背景旷野水墨。
+- 付费云端资产生成必须先停下来征得用户同意。

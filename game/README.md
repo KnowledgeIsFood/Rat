@@ -1,5 +1,6 @@
 # Rat — Godot 工程
 
+- **框架**：3AGameFactory（仓库 `third_party/GameFactory-3A`）。Agent 操作本工程须走 `GodotClient`，先读 `../docs/gamefactory/README.md`。
 - **引擎版本**：Godot 4.6（`project.godot` 中 `config/features` 含 `4.6`）
 - **主场景**：`main.tscn` → `main.gd` 读取 `res://data/creatures_catalog.json`，显示全表条数、类目计数及 **`theme_scope`（五藏山经内条目数）**。
 - **当前美术占位**：
