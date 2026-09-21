@@ -16,3 +16,9 @@ window/size/viewport_height=720
 
 [rendering]
 renderer/rendering_method="forward_plus"
+
+[editor_plugins]
+enabled=PackedStringArray("res://addons/a3game_playable/plugin.cfg")
+
+[autoload]
+A3GameRuntime="*res://addons/a3game_playable/runtime.gd"

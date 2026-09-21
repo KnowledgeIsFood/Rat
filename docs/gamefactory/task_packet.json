@@ -1,0 +1,40 @@
+{
+  "schema": "rat.gamefactory.task_packet.v1",
+  "framework": {
+    "name": "3AGameFactory",
+    "upstream": "https://github.com/OpenDCAI/GameFactory-3A",
+    "repo_path": "third_party/GameFactory-3A",
+    "entry_skill": "third_party/GameFactory-3A/agent_skills/setting_overview.md",
+    "engine_overview": "third_party/GameFactory-3A/agent_skills/engine_context/engine_overview.md",
+    "engine_api": "third_party/GameFactory-3A/agent_skills/engine_context/godot_api.md",
+    "game_design_skill": "third_party/GameFactory-3A/agent_skills/game_design/SKILL.md"
+  },
+  "engine": "godot",
+  "engine_version": "4.6",
+  "engine_identifier": "godot",
+  "game_id": "gameR_wucang_shanjing_godot",
+  "project_name": "Rat",
+  "godot_project": "game",
+  "run_id": "default",
+  "genre": "growth_mutation_roguelike",
+  "camera": "side_scrolling_exploration",
+  "visual_style": {
+    "foreground": "pixel_sprite",
+    "background": "wilderness_ink",
+    "style_doc": "docs/art/视觉风格规范.md"
+  },
+  "canon": {
+    "theme_doc": "docs/shanhaijing/游戏主题-五藏山经.md",
+    "master_csv": "data/shanhaijing/creatures_master.csv",
+    "catalog": "game/data/creatures_catalog.json"
+  },
+  "public_client": "from engine_adapters.godot import GodotClient",
+  "do_not": [
+    "create a second Godot project with GodotClient.project.create on game/",
+    "edit third_party/GameFactory-3A unless contributing upstream",
+    "hand-build output paths under test_data/outputs/",
+    "mix ue5/unity3d/three_js APIs",
+    "bypass GodotClient for import, plugin, build, test, or launch",
+    "call paid cloud asset backends without explicit user approval"
+  ]
+}
